@@ -1,0 +1,22 @@
+    1  cd C:\Users\tieng\OneDrive\Desktop
+    2  cd ~/Desktop
+    3  cd C:\CS131
+    4  git int
+    5  git init
+    6  touch newfile.txt
+    7  ls
+    8  git status
+    9  git add
+   10  git add newfile.txt
+   11  ls
+   12  git status
+   13  git commit -m "First git commit"
+   14  git config
+   15  git config --global user.email solocurries@gmail.com
+   16  git config --global user.name Sang Tran
+   17   git commit -m "First git commit"
+   18  git branch
+   19  wget www.github.com
+   20  ls
+   21  history > cs131/log
+   22  history >cmds.log
