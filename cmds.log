@@ -1,0 +1,796 @@
+    1  passwsd
+    2  passwd
+    3  ping 172.20.25.9
+    4  pwd
+    5  =$mc
+    6  echo Shell
+    7  =mc
+    8  =nc
+    9  vi
+   10  sh
+   11  % cd files
+   12  clear
+   13  files
+   14  cd.files
+   15  cd.file
+   16  pwd
+   17  ls
+   18  pwd
+   19  ls new.txt
+   20  cat new.txt
+   21  new.txt
+   22  ls
+   23  ls -1
+   24  cat file
+   25  $ cat file
+   26  hello world!
+   27  ls
+   28  cat new.txt
+   29  cd
+   30  touch new.txt
+   31  cat new.txt
+   32  ls -l
+   33  cd
+   34  ls
+   35  man
+   36  1
+   37  pwd
+   38  ls -lat
+   39  ls
+   40  ls - latr
+   41  ls *.txt
+   42  ls ?.txt
+   43  ls ?.txt 
+   44  ls ??.txt
+   45  ls new.txt
+   46  man tar
+   47  clear
+   48  ..
+   49  man --help
+   50  clear
+   51  man tar
+   52  wget www.github.com
+   53  sudo dnf install git-all
+   54  wget www.github.com
+   55  history > cmds.log
+   56  git remote add origin git@github.com:badcent/cs131.git
+   57  git push -u origin main
+   58  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/spotify-2023.csv
+   59  cd Downloads
+   60  cd /Downloads
+   61  cd 
+   62  get cd
+   63  ls
+   64  cd Downloads
+   65  tail spotify-2023.csv 
+   66  tail -f spotify-2023.csv 
+   67  nano spotify-2023.csv 
+   68  wget www.github.com
+   69  gce
+   70  c
+   71  clear
+   72  vim spotify-2023.csv 
+   73  ls
+   74  rm index.html
+   75  rm all
+   76  rm cmds.log
+   77  rm index.html.1
+   78  ls
+   79  rm index.html.2
+   80  ls
+   81  LINE
+   82  vi new.txt
+   83  ls
+   84  sort new.txt
+   85  vi new.txt 
+   86  ls
+   87  sort new.txt 
+   88  sort new.txt > newsorted.txt
+   89  cat newsorted.txt 
+   90  echo "Hello"
+   91  echo "Hello" > echohello.txt
+   92  ls
+   93  cat echohello.txt 
+   94  man wc
+   95  wc newsorted.txt 
+   96  wc -1 newsorted.txt 
+   97  wc -l newsorted.txt 
+   98  wc -c newsorted.txt 
+   99  cs spotify-2023.csv 
+  100  cd spotify 
+  101  grep spotify-2023.csv 
+  102  ls
+  103  grep spotify-2023.csv 
+  104  grep 'Drake' spotify-2023.csv 
+  105  ls
+  106  wc -l grep 'Taylor Swift' spotify-2023.csv 
+  107  wc -l spotify-2023.csv 
+  108  grep 'Taylor' spotify-2023.csv 
+  109  grep 'Taylor' spotify-2023.csv > resultTaylor.txt
+  110  ls
+  111  wc -l resultTaylor.txt 
+  112  rm resultTaylor.txt 
+  113  grep 'Taylor Swift' spotify-2023.csv > result.txt
+  114  ls
+  115  wc -l result.txt 
+  116  grep -i Taylor spotify-2023.csv 
+  117  pwd
+  118  man grep
+  119  grep -i taylor swift spotify-2023.csv 
+  120  echo $HOME
+  121  echo $SHELL
+  122  wd
+  123  pwd
+  124  $printenv
+  125  printenv
+  126  clear
+  127  a=1234
+  128  echo a
+  129  echo "a"
+  130  ls
+  131  $a=1234
+  132  echo $a
+  133  rm $a
+  134  echo 'pwd'
+  135  echo "pwd"
+  136  echo `pwd`
+  137  ls
+  138  rm newsorted.txt 
+  139  rm result.txt 
+  140  rm echohello.txt 
+  141  ls
+  142  rm new.txt 
+  143  q
+  144  echo pwd
+  145  echo "pwd"
+  146  echo 'pwd'
+  147  pwd
+  148  echo `pwd`
+  149  cat /etcpasswd
+  150  cat
+  151  ls
+  152  grep sangsp24 /etc/passwd
+  153  nano /etc/group
+  154  sudo cat /etc/shadow
+  155  root
+  156  ls -ltr
+  157  ls
+  158  quit
+  159  q
+  160  exit
+  161  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  162  ls
+  163  rm spotify-2023.csv 
+  164  ls
+  165  man grep
+  166  grep -i "United States" 'Global YouTube Statistics.csv' 
+  167  man chmod
+  168  ls
+  169  grep -i "United States" 'Global YouTube Statistics.csv' 
+  170  man grep
+  171  grep -x "Music" 'Global YouTube Statistics.csv' 
+  172  grep 'Music' 'Global YouTube Statistics.csv' 
+  173  cat counts.txt
+  174  touch counts.txt
+  175  ls
+  176  grep "Music" 'Global YouTube Statistics.csv' | wc -l >> counts.txt
+  177  ls
+  178  head counts.txt
+  179  man wc
+  180  grep "Music" 'Global YouTube Statistics.csv' | wc -w >> counts.txt
+  181  cat counts.txt
+  182  cat 'Global YouTube Statistics.csv' 
+  183  wc -l 'Global YouTube Statistics.csv' 
+  184  vi counts.txt
+  185  ls
+  186  cat counts.txt
+  187  rm counts.txt
+  188  ls
+  189  touch counts.txt
+  190  grep "Music" 'Global YouTube Statistics.csv' | wc -l >> counts.txt
+  191  grep "Music" 'Global YouTube Statistics.csv' | wc -w >> counts.txt
+  192  cat counts.txt 
+  193  vi counts.txt 
+  194  history > cmds.log
+  195  ls
+  196  git clone https://github.com/badcent/cs131/tree/main/worksheet2
+  197  cd
+  198  git init
+  199  git clone https://github.com/badcent/cs131/tree/main/worksheet2
+  200  ls
+  201  git status
+  202  git add counts.txt 
+  203  git add cmds.log
+  204  git status
+  205  git commit -m "worksheet2"
+  206  git conifg --global user.name Sang
+  207  git config --global user.name Sang
+  208  git commit -m "worksheet2"
+  209  git branch
+  210  git remote add origin https://github.com/badcent/cs131.git
+  211  git push -u origin master
+  212  git add origin https://github.com/badcent/cs131.git
+  213  git remote -v
+  214  git init
+  215  git init -b main
+  216  git init -b master
+  217  git remote add origin git@github.com:badcent/cs131.git
+  218  git remote -v
+  219  git push origin master
+  220  gh repo clone badcent/cs131
+  221  git status
+  222  ls
+  223  git remote -v
+  224  git remote set-url git@github.com:badcent/cs131.git
+  225  git remote -v
+  226  git remote set-url origin git@github.com:badcent/cs131.git
+  227  git remote -v
+  228  git remote push origin master
+  229  git push origin master
+  230  git status
+  231  pwd
+  232  git init
+  233  git add counts.txt 
+  234  git status
+  235  git push -u origin master
+  236  wget github.com
+  237  git remote set-url origin https://github.com/badcent/cs131.git
+  238  git remote -v
+  239  git push -u origin
+  240  git remote push origin master
+  241  git push origin master
+  242  git remote push origin master
+  243  git push origin master
+  244  git push -u origin master
+  245  git remote set-url origin git@github.com:badcent/cs131.git
+  246  git push -u origin master
+  247  ssh
+  248  ]ssh -T git@github.com
+  249  ssh -l
+  250  ssh -vT git@github.com
+  251  ssh-add
+  252  ls
+  253  ls -ltr
+  254  cd
+  255  pwd
+  256  mkdir worksheet2
+  257  cd worksheet2/
+  258  git init
+  259  git add counts.log
+  260  git add
+  261  git status
+  262  cd .git/
+  263  pwd
+  264  cd sangsp24
+  265  cd sangsp24/
+  266  cd worksheet2/
+  267  cd
+  268  pwd
+  269  ls
+  270  git init
+  271  git status
+  272  git add counts.txt
+  273  git status
+  274  git config --global user.email "you@example.com"
+  275  git config --global user.email "solocurries@gmail.com"
+  276  ls
+  277  ls -ltr
+  278  vi counts.txt 
+  279  cd ~/.ssh && ssh-keygen
+  280  cat id_rsa.pub
+  281  cd ~/.ssh && ssh-keygen
+  282  cat id_rsa.pub
+  283  cat key.pub
+  284  cat key.pub.lic
+  285  ls
+  286  cat ''$'\r''key.pub'
+  287  AAAAB3NzaC1yc2EAAAADAQABAAABgQDpDH7gKwZIgRMrZy+E5YhIxOhGJC5rO8922QzE68zmhp6kDAG88Ani1kUj7jDmFFVktDKC4D3ombcB4odxmfMN6SHriV345V39htKLEMBPSlic8ALTVkrb0oXRUBHH70i0sreVIgNsBVQ5Rqa8Jtbh4clptVPKnF9/lTS8K3KniO2rj/MLXJfuh59hRHjCU2MNggjk/eRX9sYmwmpsNtI0/ZxTUqv6Qra1dBdPzuecRrYcZNcSW8YJWoS4lMknihjCf3wNWUXOpaRMR2UVpgqvHHQnLqO6AGgMLK5xFkPMpPIxxe4ArNfDDPfw3C1GQjoAYB9R7gV/UqSSVCb8YsECEVvDYNeSpfjT4yQ/0MYxphHGOj6yAJ95FdbrEr98nFzQbf78NGkJmQU2js/haINff38A63jj0qzp2TsA2Db+3eml5N4dzig9GtEgmZwG4U2ewYBgUBk1kD6mVT+nlkYvI6L6YlS6lyOJFGu/xrJabPm4ZvX/stvX9YIcby/o/iE= sangsp24@sjsu.pic2.isv.ihost.com
+  288  git pus --set-upstream origin master
+  289  git push --set-upstream origin master 
+  290  sudo git
+  291  git status
+  292  git remote
+  293  git remote add origin git@github.com:badcent/cs131.git
+  294  git remote show origin 
+  295  git remote set-url origin git@github.com:badcent/cs131.git
+  296  git remote -v
+  297  git commit -m "worksheet2"
+  298  git add counts.txt
+  299  ls
+  300  cd main
+  301  cd ~
+  302  ls
+  303  git status
+  304  ls -ltr
+  305  git commit -m "worksheet2"
+  306  git commit
+  307  git push -u origin master
+  308  ssh -T badcent@github.com
+  309  ssh -R git@github.com
+  310  ssh -T git@github.com
+  311  ssh-agent -s
+  312  ssh-add -l -E sha256
+  313  ssh-add ~/.ssh/key
+  314  ssh-add ~/.ssh/id_rsa
+  315  git status
+  316  eval `ssh-agent -s`
+  317  ssh-add ~/.ssh/key.pub
+  318  cd .ssh/
+  319  ls
+  320  cd ~
+  321  ssh-add ~/.ssh/''$'\r''key.pub'
+  322  ssh-add ~/.ssh/''$'\r''key'
+  323  git status
+  324  git push -u origin master 
+  325  git push -u origin main
+  326  git status
+  327  git commit -m "worksheet2"
+  328  git add counts.txt
+  329  git status
+  330  git add cmds.log
+  331  git push -u origin main
+  332  git checkout
+  333  git remote -v
+  334  git push
+  335  git pull
+  336  git push -u origin main
+  337  /etc/init
+  338  ls
+  339  rm worksheet2
+  340  printenv
+  341  ps
+  342  ps aux | head
+  343  ps aux 
+  344  clear
+  345  ps aux | head 
+  346  ps aux | grep system
+  347  clear
+  348  ps aux | grep systemd
+  349  ps -p 1
+  350  top
+  351  ls
+  352  echo "hello" > hello.txt
+  353  cat hello.txt
+  354  find hello.txt
+  355  cd
+  356  pwd
+  357  ls
+  358  mkdir Assignment1
+  359  pwd
+  360  ls
+  361  cd Assignment1/
+  362  touch Assignment1.txt
+  363  ls
+  364  echo $HOME
+  365  vi Assignment1.txt 
+  366  echo $SHELL
+  367  vi Assignment1.txt 
+  368  id -g Sang
+  369  id -g sangsp@sjsu
+  370  echo $UID
+  371  vi Assignment1.txt 
+  372  id 1175
+  373  groups
+  374  sangsp24 S77
+  375  vi Assignment1.txt 
+  376  mkdir myDir
+  377  ls
+  378  chmod -w
+  379  chmod man
+  380  man chmod
+  381  chmod o-w myDir/
+  382  cd myDir/
+  383  cd -
+  384  vi Assignment1.txt 
+  385  cd myDir/
+  386  ls
+  387  ls -l
+  388  touch new.txt
+  389  ls
+  390  rm new.txt 
+  391  cd -
+  392  chmod u-w myDir/
+  393  cd myDir/
+  394  ls
+  395  touch new.txt
+  396  ls
+  397  ls -l
+  398  cd -
+  399  vi Assignment1.txt 
+  400  mkdir myDir2 myDir3
+  401  ls
+  402  cd myDir2
+  403  touch myFile.txt
+  404  mv myFile.txt ../Assignments/myDir3/
+  405  man mv
+  406  cd myDir3
+  407  cd -
+  408  cd myDir3
+  409  pwd
+  410  cd -
+  411  cd myDir2
+  412  ls
+  413  mv myFile.txt /mnt/scratch/FA23_CS131_Ashish/sangsp24/Assignment1/myDir3
+  414  ls
+  415  cd-
+  416  cd -
+  417  cd myDir3
+  418  ls
+  419  cd -
+  420  man free
+  421  free
+  422  vi Assignment1.txt 
+  423  man free
+  424  free -m
+  425  vi Assignment1.txt 
+  426                total        used        free      shared  buff/cache   available
+  427  Mem:          71367       32646       19406        3609       19315       33653
+  428  Swap:          4119           0        4119
+  429                total        used        free      shared  buff/cache   available
+  430  Mem:          71367       32646       19406        3609       19315       33653
+  431  Swap:          4119           0        4119
+  432  vi Assignment1.txt 
+  433  cd /etc/
+  434  ls
+  435  cd - 
+  436  cat /etc/os-release
+  437  vi Assignment1.txt 
+  438  ls -l /etc/os-release 
+  439  vi Assignment1.txt 
+  440  history > cmds.log
+  441  ls
+  442  git status
+  443  git commit -m "Assignment 1"
+  444  git add ../Assignment1/
+  445  git status
+  446  git rm myDir3/myFile.txt 
+  447  git status
+  448  git restore --staged myDir/myFile.txt
+  449  git restore --staged myFile.txt
+  450  git commit -m "Assignment 1"
+  451  git branch
+  452  git push origin master
+  453  ssh -T git@github.com
+  454  eval "$(ssh-agent -s)"
+  455  git push remote origin master
+  456  git push origin master
+  457  git remote push origin master
+  458  git remote -v
+  459  cat id_rsa.pub
+  460  git push --set-upstream origin master
+  461  git status
+  462  cd ~/.ssh && ssh-keygen
+  463  cat id_rsa.pub
+  464  ls
+  465  cat key2
+  466  cat key2.pub
+  467  cd -
+  468  git push --set-upstream origin master
+  469  git status
+  470  git push
+  471  ssh -t badcent@github.com
+  472  git remote add git@github.com:badcent/cs131.git
+  473  eval "$(ssh-agent -s)"
+  474  ssh-add -l -E sha256
+  475  ssh -vT git@github.com
+  476  cd ~/.ssh
+  477  ls
+  478  ssh-keygen
+  479   cat id_rsa.pub
+  480  cd id_rsa
+  481  ls
+  482  cat id.pub
+  483  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDPOtLWNOyPtEoijFucXzWs9NBiBfSOcCq2PoR7FatLJPyluDhvFAafAs3KOxd2Do+1IAC2wCK7mEAOEc4CryLyB9dk/z/lUqdgu98BoJ+NuqolT6IuwXMJ++SE/YQTMDIhdhaWP3mPaQWUbHPTSkFwy/TU1a7T2fWbCfbxiW8N9vEipx64GXqGK9G8L44PlZNoTN28kkLT8df1/y1AdCqQ1chy5lbBCn0IbrbeYXJfgavdBoCgNUFmY5EZTiJaeQld3TuRkmykBtvJfTbDUnSBAyrMTluw+iQ0EXOGn/tPGSttt5oS5K4yvXqiGQYl2TbTypfV9j+5V5uRurw9WlCHCSgoTXSYi5aTyEGHsS7bX+am7GSYVFLzhIQW7wgyzNK2g5YHfAYInpda1q3ryuWDbiHRChjcSyvSzzEnScIp1giwcOo5qCL+I/SFc3RK/p0bzfNvVp4Zi3C4osqq8aer3yg8xEB4YC6z3ZaWOXW4oxVubopKvi1bCvwXXi69s+s= sangsp24@sjsu.pic2.isv.ihost.com
+  484  cd /mnt/scratch/FA23_CS131_Ashish/sangsp24/.ssh/id_rsa
+  485  cat ''$'\r''key.pub'
+  486  cd -
+  487  git init
+  488  git push --set-upstream origin master
+  489  git status
+  490  git add all
+  491  cd -
+  492  cd- 
+  493  cd -
+  494  cd $HOME
+  495  git status
+  496  cd Assignment1/
+  497  git add cmds.log 
+  498  git status
+  499  git add Assignment1.txt 
+  500  git commit -m "Assignment 1"
+  501  git remote -v
+  502  git remote add origin git@github.com:badcent/cs131.git
+  503  git remote -v
+  504  git push --set-upstream origin master
+  505  $ ssh-add -l -E sha256
+  506  cd -
+  507  $ ssh-add -l -E sha256
+  508  ssh-add -l -E sha256
+  509  ssh-agent -s
+  510  cd -
+  511  ssh-agent -s
+  512  ssh-add -l -E sha256
+  513  eval `ssh-agent -s`
+  514  ssh-add
+  515  ssh-add -l
+  516  ssh-add ~/.ssh/id_rsa
+  517  cd ~/.ssh/
+  518  ls
+  519  ssh0add ~/.ssh/id_rsa
+  520  ssh-add ~/.ssh/id_rsa
+  521  ssh-add ~/.ssh/id.pub
+  522  ssh-add ~/.ssh/id
+  523  cd -
+  524  git push origin master
+  525  cd $home
+  526  git push origin master
+  527  git push --set-upstream origin master
+  528  git reset --hard HEAD~1
+  529  git status
+  530  cd Assignment1/
+  531  git status
+  532  git add Assignment1.txt 
+  533  git add cmds.log 
+  534  git status
+  535  git commit -m "Assignment 1"
+  536  git status
+  537  git restore As
+  538  git restore
+  539  ls
+  540  cd -
+  541  ls
+  542  cat cmds.log
+  543  cd Assignment1/
+  544  ls
+  545  ls-l
+  546  cd myDir
+  547  ls
+  548  cd ls
+  549  history > cmds.log
+  550  cat cmds.log 
+  551  touch Assignment1.txt
+  552  ls
+  553  vi Assignment1.txt
+  554  echo $HOME
+  555  echo $SHELL
+  556  echo $UID
+  557  groups
+  558  mkdir myDir
+  559  chmod u-w myDir/
+  560  cd myDir
+  561  ls
+  562  ls -l
+  563  touch new
+  564  touch new.txt
+  565  cd -
+  566  mkdir myDir2 myDir3
+  567  ls
+  568  cd myDir2
+  569  touch myFile.txt
+  570  mv myFile.txt /mnt/scratch/FA23_CS131_Ashish/sangsp24/Assignment1/myDir3
+  571  cd -
+  572  cd myDir3
+  573  ls
+  574  cd -
+  575  vi Assignment1.txt 
+  576  cd $HOME
+  577  free -m
+  578  cd Assignment1/
+  579  vi A
+  580  vi Assignment1.txt 
+  581  ls
+  582  cd Assignment1/
+  583  vi Assignment1.txt 
+  584   cat /etc/os-release
+  585  vi Assignment1.txt
+  586  ls
+  587  vi Assignment1.txt 
+  588  history > cmds.log
+  589  ls
+  590  git init
+  591  git status
+  592  git add Assignment1.txt 
+  593  git add cmds.log
+  594  git status
+  595  git remote -b
+  596  git remote -v
+  597  ssh-add
+  598  eval `ssh-agent -s`
+  599  ssh-add
+  600  cd ~/.ssh/id_rsa
+  601  cat ~/.ssh/id_rsa
+  602  cd ~/.ssh/
+  603  ls
+  604  cat key2
+  605  cat id.pub
+  606  cat ''$'\r''key.pub'
+  607  $ ssh -T git@github.com
+  608  ssh -T git@github.com
+  609  ssh-agent -s
+  610  ssh-add -l -E sha256
+  611  ssh -vT git@github.com
+  612  ssh-add -l -E sha256
+  613  eval $(ssh-agent -s)
+  614  ssh-add -l -E sha256
+  615  ssh-add
+  616  ssh -vT git@github.com
+  617  ls -l ~/.ssh
+  618  ssh-add
+  619  echo $?
+  620  rm''$'\r''cat id_rsa.pub'
+  621  rm ''$'\r''cat id_rsa.pub'
+  622  ls -l
+  623  rm -r
+  624  rm-r
+  625  rm -r .ssh
+  626  rm -s ~/.ssh
+  627  ls
+  628  rm id
+  629  rm ''$'\r''cat id_rsa.pub.pub'
+  630  ls
+  631  rm id.pub  ''$'\r''key'   key2   key2.pub  ''$'\r''key.pub'
+  632  ls
+  633  ssh-keygen
+  634  ls
+  635  ssh-keygen
+  636  ls
+  637  rm is_rsa
+  638  rm is_rsa.pub 
+  639  ls
+  640  cat id_rsa.pub
+  641  cd -
+  642  ssh-add -l -E sha256
+  643  ss-agent
+  644  ssh-add
+  645  ssh-add -l -E sha256
+  646  git remote -v
+  647  git commit -m "Assignment 1"
+  648  git push --set-upstream origin master
+  649  git branch
+  650  git pull origin master
+  651  git push origin master
+  652  git push -f origin master
+  653  git status
+  654  cd $HOME
+  655  git status
+  656  cd worksheet2/
+  657  ls
+  658  cd -
+  659  ls
+  660  man mesg
+  661  man pg
+  662  ls -l
+  663  man tee
+  664  echo "hello" 1>a.txt
+  665  echo a.txt 
+  666  cat a.txt 
+  667  echo "hello" 2>a.txt
+  668  cat a.txt 
+  669  ls
+  670  cat hello.txt 
+  671  rm a.txt 
+  672  rm hello.txt 
+  673  echo "hello" 2>a.txt
+  674  ls
+  675  cat a.txt 
+  676  man echo 
+  677  man rmdir
+  678  agent
+  679  git status
+  680  ssh
+  681  ssh -L
+  682  ssh -l
+  683  clear
+  684  man ssh
+  685  git remote -v
+  686  git remote add
+  687  git config
+  688  git -v
+  689  git config -v
+  690  git config --global
+  691  git congif --list
+  692  git config --list 
+  693  git add .help
+  694  git add --help
+  695  ls
+  696  ssh status
+  697   ls -al ~/.ssh 
+  698  man grep
+  699  ls
+  700  lp
+  701  man lp
+  702  tty
+  703  ls
+  704  bs -u Sang
+  705  ps 
+  706  ps -u Sang
+  707  ps all
+  708  pid
+  709  ps pid
+  710  ls
+  711  ls -ltr
+  712  mkdir Assignment2
+  713  cd Assignment2
+  714  touch Assignment2.txt
+  715  rm Assignment2.txt 
+  716  cd -
+  717  rm Assignment2
+  718  rmdir Assignment
+  719  rmdir Assignment2
+  720  ls
+  721  ps aux| head
+  722  os -eo pid,ppid,ni,comm | head
+  723  ps -eo pid,ppid,ni,comm | head
+  724  clear
+  725  Tmux
+  726  man tmux
+  727  tmux
+  728  tmux -list-sessions
+  729  tmux ls
+  730  tmux
+  731  tmux ls
+  732  tmux -attach test
+  733  tmux attach -t test
+  734  tmux attach -t 0
+  735  tmux
+  736  tmux ls
+  737  tmux 0
+  738  tmux rm 0
+  739  tmux 
+  740  tmux ls
+  741  man pid
+  742  man ps
+  743  ps -U
+  744  ps -U SangTran
+  745  whoami
+  746  ps -U sangsp24
+  747  tmux ls
+  748  tmux kill-session -t 0
+  749  tmux ls
+  750  tmux kill-session -t 1,2
+  751  tmux kill-session -t 1
+  752  tmux kill-session -t 2
+  753  tmux ls
+  754  history
+  755  ls
+  756  mkdir Assignment2
+  757  cd Assignment2
+  758  touch Assignment2.txt
+  759  ls
+  760  git init
+  761  git status
+  762  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  763  ls
+  764  find /etc -type f > one.txt 2> two.txt
+  765  ls
+  766  vi Assignment2.txt 
+  767  cat one.txt 
+  768  cat two.txt 
+  769  vi Assignment2.txt 
+  770  man cut
+  771  man uniq
+  772  man sort
+  773  ls
+  774  cat 'Global YouTube Statistics.csv' 
+  775  vi 'Global YouTube Statistics.csv' 
+  776  cut -d ',' -f 20,21 'Global YouTube Statistics.csv' | sort | uniq -c | sort -nr
+  777  head
+  778  cd Assignment2
+  779  ls
+  780  vi Assignment2.txt 
+  781  cut -d ',' -f 20,21 'Global YouTube Statistics.csv' | sort | uniq -c | sort -nr
+  782  vi Assignment2.txt 
+  783  ps -u sangsp24
+  784  vi Assignment2.txt 
+  785  tmux 
+  786  ls
+  787  vi Assignment2.txt 
+  788  init
+  789  man init
+  790  ps aux
+  791  ps aux >> pid.txt
+  792  ls
+  793  vi pid.txt 
+  794  head pid.txt 
+  795  vi Assignment2.txt 
+  796  history >> cmds.log

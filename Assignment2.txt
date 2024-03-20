@@ -1,0 +1,78 @@
+1. 'find /etx -type f' will search for all files within the /etc directory. It will then redirect the standard output to 'one.txt'. The command will also redirect the error outputs into 'two.ext'. one.txt contains all the files within the /etc directory, two.txt contains some files that cannot be accessed due to permision errors. These files include "firewall" and "sudoers".
+
+2. As per the dataset, the top 3 [Month, Year] with the most number of Youtube channels created were
+   March, 2006 with 15 channels 
+   July, 2014 with 13 channels
+   August, 2014 with 12 channels
+The command I used to find this was `cut -d ',' -f 20,21 'Global YouTube Statistics.csv' | sort | uniq -c | sort -nr`. This command first cuts the 20th and 21st columns of the dataset with `cut -d ',' -f 20,21`. Those columns contain information in the year and month a channel was created. I then piped that output and sorted it. I piped the new sorted output into uniq, which would count the number of times a channel was created in a certain month AND year. I then sorted that data in descending order to get the top 3.
+
+3. ps -u sangsp24
+
+OUTPUT:  PID TTY          TIME CMD
+  22036 ?        00:00:00 ssh-agent
+  24175 ?        00:00:00 ssh-agent
+  26673 ?        00:00:00 ssh-agent
+  26731 ?        00:00:00 ssh-agent
+  26926 ?        00:00:00 ssh-agent
+  33565 ?        00:00:00 ssh-agent
+  34140 ?        00:00:00 ssh-agent
+  34214 ?        00:00:00 ssh-agent
+2492008 ?        00:21:53 systemd
+2492010 ?        00:00:00 (sd-pam)
+2492433 ?        00:00:00 ssh-agent
+2493222 ?        00:00:00 ssh-agent
+3565365 ?        00:00:00 sshd
+3565366 pts/33   00:00:00 bash
+3568715 pts/33   00:00:00 ps
+
+4. The output is:
+PID TTY          TIME CMD
+                                       │  22036 ?        00:00:00 ssh-agent
+                                       │  24175 ?        00:00:00 ssh-agent
+                                       │  26673 ?        00:00:00 ssh-agent
+                                       │  26731 ?        00:00:00 ssh-agent
+                                       │  26926 ?        00:00:00 ssh-agent
+                                       │  33565 ?        00:00:00 ssh-agent
+                                       │  34140 ?        00:00:00 ssh-agent
+                                       │  34214 ?        00:00:00 ssh-agent
+                                       │2492008 ?        00:21:53 systemd
+                                       │2492010 ?        00:00:00 (sd-pam)
+                                       │2492433 ?        00:00:00 ssh-agent
+                                       │2493222 ?        00:00:00 ssh-agent
+                                       │3565365 ?        00:00:00 sshd
+                                       │3565366 pts/33   00:00:00 bash
+                                       │3569599 pts/33   00:00:00 tmux: client
+                                       │3569601 ?        00:00:00 tmux: server
+                                       │3569602 pts/42   00:00:00 bash
+                                       │3569761 pts/46   00:00:00 bash
+                                       │3570021 pts/42   00:00:00 vim
+                                       │3570445 pts/46   00:00:00 ps
+
+There are now new processes running like tmux and vim. The PID for vim is 35700. 
+
+The new output is :PID TTY          TIME CMD
+                                               │  22036 ?        00:00:00 ssh-agent
+                                               │  24175 ?        00:00:00 ssh-agent
+                                               │  26673 ?        00:00:00 ssh-agent
+                                               │  26731 ?        00:00:00 ssh-agent
+                                               │  26926 ?        00:00:00 ssh-agent
+                                               │  33565 ?        00:00:00 ssh-agent
+                                               │  34140 ?        00:00:00 ssh-agent
+                                               │  34214 ?        00:00:00 ssh-agent
+                                               │2492008 ?        00:21:53 systemd
+                                               │2492010 ?        00:00:00 (sd-pam)
+                                               │2492433 ?        00:00:00 ssh-agent
+                                               │2493222 ?        00:00:00 ssh-agent
+                                               │3565365 ?        00:00:00 sshd
+                                               │3565366 pts/33   00:00:00 bash
+                                               │3569599 pts/33   00:00:00 tmux: client
+                                               │3569601 ?        00:00:00 tmux: server
+                                               │3569602 pts/42   00:00:00 bash
+                                               │3569761 pts/46   00:00:00 bash
+                                               │3571549 pts/46   00:00:00 ps
+
+This new output no longer has vim as a running process. This is because the vim is not longer open in the other terminal. 
+
+5. The init proccess is the first process that runs when we start Linux. It's repsonsible ofr initializing the vm's system. I used `ps aux >> pid.txt` to get the PIDs of all programs and put them in a file called pid.txt. I then used `head pid.txt` to get the top 10 lines. I found that the PID of init, or in this case systemd, is 1. 
+
+6. 'ps aux' will display information of all of the running processes. 'a' stands for all users, 'u' stands for user/owner, and 'x' stands for all processes that aren't in the terminal.
