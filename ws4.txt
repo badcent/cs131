@@ -1,1077 +1,0 @@
-Script started on 2024-04-10 01:45:16-04:00
-bash-4.4$ ls
-ws4.txt
-bash-4.4$ vi ~/.bashrc
-[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;25r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[25;1H"~/.bashrc" [New File][2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [1;1H[?25h[?25l[m[25;1H[1m-- INSERT --[m[25;13H[K[1;1H[?25h[?25ll[?25h[?25li[?25h[?25l[1;2H[K[1;2H[?25h[?25l[1;1H[K[1;1H[?25h[?25la[?25h[?25ll[?25h[?25li[?25h[?25la[?25h[?25ls[?25h[?25l [?25h[?25l1[?25h[?25l=[?25h[?25l`[?25h[?25ll[?25h[?25ls[?25h[?25l [?25h[?25l-[?25h[?25ll[?25h[?25lt[?25h[?25lr[?25h[?25l`[?25h[?25l[2;1H[K[2;1H[?25h[?25l[1m[34m~                                                                               [1;18H[?25h[m[25;1H[K[1;17H[?25l[?25h[?25l[25;1H:[?2004h[16;1H[7m~/.bashrc [+]                                                                   [m[17;1H[1m[34m:[m[17;2H[K[18;1H[1m[34m:
-:
-:
-:
-:
-:[18;2H~
-:~
-:~
-:~
-:~
-:~[m
-[1m[7m[Command Line]                                                                  [17;2H[?25h[?25l[m[25;1H[K[25;1H:[?2004h[?25hwq![?25l[1m[37m[41mE11: Invalid in command-line window; <CR> executes, CTRL-C quits[17;2H[?25h[?25l[m[25;1H:[1m[37m[41m1[m[25;2H[K[25;2H[?25hw[?25l[25;2H[K[25;2H[?25hq![?25l[25;3H[K[25;3H[?25h[?25l[25;2H[K[25;2H[?25hw![?25l"~/.bashrc" [New] 1L, 18C written[16;1H[1m[34m~                                                                               [17;1H~                                                                               [18;1H~  
-~  
-~  
-~  
-~  
-~  
-~                                                                               [1;17H[?25h[?25l[m[25;1H[K[25;1H:[?2004h[?25hwq![?25l[?2004l"~/.bashrc" 1L, 18C written
-[?2004l[?1l>[?25h[?1049l[23;0;0tbash-4.4$ ls
-ws4.txt
-bash-4.4$ source ~./[K[K/.bashrc
-bash: alias: 0: not found
-bash: alias: -rw-rw-r--: not found
-alias 1='total'
-bash: alias: sangsp24: not found
-bash: alias: sangsp24: not found
-bash: alias: 0: not found
-bash: alias: Apr: not found
-bash: alias: 10: not found
-bash: alias: 01:45: not found
-bash: alias: ws4.txt: not found
-bash-4.4$ l
-bash: l: command not found
-bash-4.4$ 1
-bash: total: command not found
-bash-4.4$ a[Kvi [K[Ki ~/.bashrc
-[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;25r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[25;1H"~/.bashrc" 1L, 18C[1;1Halias 1=`ls -ltr`
-[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [1;1H[?25h[malias 11[?25l[25;1H[1m-- INSERT --[m[25;13H[K[1;9H[?25h1[?25l=`ls -ltr`[1;17H[K[1;7H[?25h[?25ll=`ls -ltr`[1;8H[?25h=`ls -ltr`[25;1H[K[1;17H[?25l[?25h[?25l[25;1H:[?2004h[?25hwq![?25l[?2004l"~/.bashrc" 1L, 18C written
-[?2004l[?1l>[?25h[?1049l[23;0;0tbash-4.4$ s[Kvi ~/.bashrc[C[C[C[C[C[C[C[C[C[C1[Klsource ~/.bashrc
-bash-4.4$ l
-bash: total: command not found
-bash: -rw-rw-r--: command not found
-bash-4.4$ chmod u+x l [K
-chmod: cannot access 'l': No such file or directory
-bash-4.4$ l
-bash: total: command not found
-bash: -rw-rw-r--: command not found
-bash-4.4$ ls -l
-total 4
--rw-rw-r-- 1 sangsp24 sangsp24 4096 Apr 10 01:46 ws4.txt
-bash-4.4$ vi bas[K[K[K[K[K[Kls -l[Kchmod u+x ll[Ksource ~/.bashrc[C[C[C[C[C[C[C[C[C[C[4Pvi[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4@source[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[4Pvi[C[C[C[C[C[C[C[C[C[C
-[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;25r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[25;1H"~/.bashrc" 1L, 18C[1;1Halias l=`ls -ltr`
-[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [1;1H[?25h[malias l=`ls -ltr[?25l[25;1H[1m-- INSERT --[m[25;13H[K[1;18H[?25h[?25l[2;1H[K[2;1H[?25h[?25la[?25h[?25ll[?25h[?25li[?25h[?25la[?25h[?25ls[?25h[?25l [?25h[?25lw[?25h[?25l=[?25h[1;9H[?25l'`ls -ltr`[1;10H[?25h[?25l`ls -ltr`[1;18H[K[1;9H[?25h`[?25lls -ltr`[1;17H[K[1;9H[?25h[?25l'ls -ltr`[1;10H[?25hls -ltr`[?25l[1;17H[K[1;17H[?25h[?25l'[?25h[2;9H[?25l'[?25h[?25ll[?25h[?25ls[?25h[?25l [?25h[?25l-[?25h[?25ll[?25h[?25l [?25h[?25l|[?25h[?25l [?25h[?25lw[?25h[?25lc[?25h[?25l [?25h[?25l-[?25h[?25ll[?25h[?25l'[?25h[25;1H[K[2;23H[?25l[?25h[?25l[25;1H:[?2004h[?25hwq![?25l[?2004l"~/.bashrc" 2L, 42C written
-[?2004l[?1l>[?25h[?1049l[23;0;0tbash-4.4$ vi ~/.bashrc[C[C[C[C[C[C[C[C[C[C[7Pls -l[Kchmod u+x ll[Ksource ~/.bashrc
-bash-4.4$ l
-total 8
--rw-rw-r-- 1 sangsp24 sangsp24 8192 Apr 10 01:50 ws4.txt
-bash-4.4$ w
-2
-bash-4.4$ ls[K[Kl
-total 8
--rw-rw-r-- 1 sangsp24 sangsp24 8192 Apr 10 01:50 ws4.txt
-bash-4.4$ vi ws4.txt [K[K[K[K[K[K[K[K~/.bashj[K[K[K[K[K[K[K[K[K[K[Klwlsource ~/.bashrc[C[C[C[C[C[C[C[C[C[C[4Pvi[C[C[C[C[C[C[C[C[C[C
-[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;25r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[25;1H"~/.bashrc" 2L, 42C[1;1Halias l='ls -ltr'
-alias w='ls -l | wc -l'
-[1m[34m~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [24;1H~                                                                               [1;1H[?25h[malias l='ls -ltr -ltr[?25l[25;1H[K[25;1H:[?2004h[?25hq[?25l[?2004l[25;1H[K[25;1H[?2004l[?1l>[?25h[?1049l[23;0;0tbash-4.4$ wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Gllobal%20YouTube%20Statistics.csv
---2024-04-10 01:52:30--  https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.109.133, 185.199.108.133, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 200279 (196K) [text/plain]
-Saving to: ‘Global YouTube Statistics.csv’
-
-          Global Yo   0%[                    ]       0  --.-KB/s               Global YouTube Stat 100%[===================>] 195.58K  --.-KB/s    in 0.009s  
-
-2024-04-10 01:52:31 (21.3 MB/s) - ‘Global YouTube Statistics.csv’ saved [200279/200279]
-
-bash-4.4$ ls
-'Global YouTube Statistics.csv'   ws4.txt
-bash-4.4$ l
-total 208
--rw-rw-r-- 1 sangsp24 sangsp24  12288 Apr 10 01:52  ws4.txt
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:52 'Global YouTube Statistics.csv'
-bash-4.4$ w
-3
-bash-4.4$ mkdir Work[K[K[K[Kworksheet4
-bash-4.4$ cd [K[K[Kls
-'Global YouTube Statistics.csv'   worksheet4   ws4.txt
-bash-4.4$ cd worksheet4/
-bash-4.4$ ls
-bash-4.4$ l
-total 0
-bash-4.4$ lscd worksheet4/[C[C[C[C[C[C[C[C[C[Cls[Kmkdir worksheet4[C[C[C[C[C[C[C[C[C[Cw[Klswget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Gllobal%20YouTube%20Statistics.csv
---2024-04-10 01:53:27--  https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.109.133, 185.199.108.133, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 200279 (196K) [text/plain]
-Saving to: ‘Global YouTube Statistics.csv’
-
-          Global Yo   0%[                    ]       0  --.-KB/s               Global YouTube Stat 100%[===================>] 195.58K  --.-KB/s    in 0.01s   
-
-2024-04-10 01:53:27 (19.6 MB/s) - ‘Global YouTube Statistics.csv’ saved [200279/200279]
-
-bash-4.4$ l
-total 196
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:53 'Global YouTube Statistics.csv'
-bash-4.4$ w
-2
-bash-4.4$ l
-total 196
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:53 'Global YouTube Statistics.csv'
-bash-4.4$ mkdir Subscribers
-bash-4.4$ head 'Global YouTube Statistics.csv' 
-rank,Youtuber,subscribers,video views,category,Title,uploads,Country,Abbreviation,channel_type,video_views_rank,country_rank,channel_type_rank,video_views_for_the_last_30_days,lowest_monthly_earnings,highest_monthly_earnings,lowest_yearly_earnings,highest_yearly_earnings,subscribers_for_last_30_days,created_year,created_month,created_date,Gross tertiary education enrollment (%),Population,Unemployment rate,Urban_population,Latitude,Longitude
-1,T-Series,245000000,2.28E+11,Music,T-Series,20082,India,IN,Music,1,1,1,2258000000,564600,9000000,6800000,108400000,2000000,2006,Mar,13,28.1,1366417754,5.36,471031528,20.593684,78.96288
-2,YouTube Movies,170000000,0,Film & Animation,youtubemovies,1,United States,US,Games,4055159,7670,7423,12,0,0.05,0.04,0.58,nan,2006,Mar,5,88.2,328239523,14.7,270663028,37.09024,-95.712891
-3,MrBeast,166000000,28368841870,Entertainment,MrBeast,741,United States,US,Entertainment,48,1,1,1348000000,337000,5400000,4000000,64700000,8000000,2012,Feb,20,88.2,328239523,14.7,270663028,37.09024,-95.712891
-4,Cocomelon - Nursery Rhymes,162000000,1.64E+11,Education,Cocomelon - Nursery Rhymes,966,United States,US,Education,2,2,1,1975000000,493800,7900000,5900000,94800000,1000000,2006,Sep,1,88.2,328239523,14.7,270663028,37.09024,-95.712891
-5,SET India,159000000,1.48E+11,Shows,SET India,116536,India,IN,Entertainment,3,2,2,1824000000,455900,7300000,5500000,87500000,1000000,2006,Sep,20,28.1,1366417754,5.36,471031528,20.593684,78.96288
-6,Music,119000000,0,nan,Music,0,nan,nan,Music,4057944,nan,nan,nan,0,0,0,0,nan,2013,Sep,24,nan,nan,nan,nan,nan,nan
-7,��� Kids Diana Show,112000000,93247040539,People & Blogs,��� Kids Diana Show,1111,United States,US,Entertainment,5,3,3,731674000,182900,2900000,2200000,35100000,nan,2015,May,12,88.2,328239523,14.7,270663028,37.09024,-95.712891
-8,PewDiePie,111000000,29058044447,Gaming,PewDiePie,4716,Japan,JP,Entertainment,44,1,4,39184000,9800,156700,117600,1900000,nan,2010,Apr,29,63.2,126226568,2.29,115782416,36.204824,138.252924
-9,Like Nastya,106000000,90479060027,People & Blogs,Like Nastya Vlog,493,Russia,RU,People,630,5,25,48947000,12200,195800,146800,2300000,100000,2016,Jan,14,81.9,144373535,4.59,107683889,61.52401,105.318756
-bash-4.4$ l
-total 200
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:53 'Global YouTube Statistics.csv'
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 01:55  Subscribers
-bash-4.4$ awk -F ',' '$2 == "United States[C[C[1P[1@8[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C [K" print[K[K[K[K[K{print $3:[K}' 'Global YouTube Statisticcs.csv' > Subscribers/United Stes[K[K[Kat[K[Ktates.txt[K[Abash-4.4$ awk -F ',' '$8 == "United States" {print $3}' 'Global YouTube Statistics.csv' > Subsccribers/United States.txt
-awk: cmd. line:1: fatal: cannot open file `States.txt' for reading (No such file or directory)
-bash-4.4$ awk -F ',' '$8 == "United States" {print $3}' 'Global YouTube Statistics.csv' > Subsccribers/United States.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C> Subs[1@c[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-awk: cmd. line:1: fatal: cannot open file `States.txt' for reading (No such file or directory)
-bash-4.4$ awk -F ',' '$8 == "United States" {print $3}' 'Global YouTube Statistics.csv' >> Subsscribers/United States.txt[C[1PStates.txt_States.txt[C[C[C[C[C[C[C[C[C[C
-bash-4.4$ l
-total 200
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:53 'Global YouTube Statistics.csv'
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:03  Subscribers
-bash-4.4$ cd Subscribers/
-bash-4.4$ l
-total 12
--rw-rw-r-- 1 sangsp24 sangsp24 5642 Apr 10 02:02 United
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
-bash-4.4$ rm S[KUnited
-bash-4.4$ ;
-bash: syntax error near unexpected token `;'
-bash-4.4$ l
-total 4
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
-bash-4.4$ vi United_States.txt 
-[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;29r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[29;1H"United_States.txt" 313L, 2821C[1;1H170000000
-166000000
-162000000
-112000000
-98900000
-96000000
-75000000
-68200000
-59500000
-59500000
-56900000
-56400000
-52900000
-52700000
-52200000
-47900000
-46600000
-44200000
-42400000
-42400000
-40900000
-39200000
-38600000
-38200000
-38200000
-38000000
-37900000
-37600000[1;1H[?25h
-
-
-
-
-
-[?25l[29;1H[K[29;1H:[?2004h[?25hwq[?25l[29;3H[K[29;3H[?25h[?25l[29;2H[K[29;2H[?25hq[?25l[?2004l[29;1H[K[29;1H[?2004l[?1l>[?25h[?1049l[23;0;0tbash-4.4$ l[Kcd -
-/mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4/worksheet4
-bash-4.4$ l
-total 200
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:53 'Global YouTube Statistics.csv'
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:03  Subscribers
-bash-4.4$ lcd -vi United_States.txt [C[C[C[C[C[C[C[C[C[Cl[K;rm Unitedl[Kcd Subscribers/[C[C[C[C[C[C[C[C[C[Cl[Kawk -F ',' '$8 == "United States" {print $3}' 'Global YouTube Statistics.csv' >> Subsscribers/United_States.txt States.txt_States.txt[A[C[C[C[C[C[C[C[C[C[Cl[K
-[K[A[C[C[C[C[C[C[C[C[C[C[Ccd Subscribers/[C[C[C[C[C[C[C[C[C[Cl[Kawk -F ',' '$8 == "United States" {print $3}' 'Global YouTube Statistics.csv' >> Subsscribers/United_States.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txt[1P.txtI.txtn.txtd.txti.txta.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subsc[1Pribers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscr[1Pibers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscri[1Pbers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscrib[1Pers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscribe[1Prs/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscriber[1Ps/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers[1P/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/[1PIndia.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/I[1Pndia.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/In[1Pdia.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/Ind[1Pia.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/Indi[1Pa.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/India[1P.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/India.[1Ptxt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CI" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cn" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ci" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/I[1Pndia.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca" {print $3}' 'Global YouTube Statistics.csv' >> Subscribers/India.txt[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-bash-4.4$ l
-total 200
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:53 'Global YouTube Statistics.csv'
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:04  Subscribers
-bash-4.4$ cd Subscribers/
-bash-4.4$ l
-total 8
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
-bash-4.4$ head INd[K[Kndia.txt 
-245000000
-159000000
-96700000
-83000000
-70500000
-65900000
-65600000
-64600000
-61000000
-59300000
-bash-4.4$ cd -
-/mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4/worksheet4
-bash-4.4$ l
-total 200
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:53 'Global YouTube Statistics.csv'
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:04  Subscribers
-bash-4.4$ cd Subscribers/
-bash-4.4$ l
-total 8
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
-bash-4.4$ man bc
-[?1049h[22;0;0t[?1h=bc(1)                             General Commands Manual                             bc(1)[m
-[m
-[1mNAME[0m[m
-       bc - An arbitrary precision calculator language[m
-[m
-[1mSYNTAX[0m[m
-       [1mbc [22m[ [1m-hlwsqv [22m] [long-options] [  [4mfile[24m [4m...[24m ][m
-[m
-[1mDESCRIPTION[0m[m
-       [1mbc  [22mis  a language that supports arbitrary precision numbers with interactive execu‐[m
-       tion of statements.  There are some similarities in the syntax to the C  programming[m
-       language.   A  standard  math  library  is  available  by  command  line option.  If[m
-       requested, the math library is defined before processing any files.   [1mbc  [22mstarts  by[m
-       processing  code  from all the files listed on the command line in the order listed.[m
-       After all files have been processed, [1mbc [22mreads from the standard input.  All code  is[m
-       executed  as  it  is  read.  (If a file contains a command to halt the processor, [1mbc[0m[m
-       will never read from the standard input.)[m
-[m
-       This version of [1mbc [22mcontains several extensions beyond traditional [1mbc [22mimplementations[m
-       and  the  POSIX  draft standard.  Command line options can cause these extensions to[m
-       print a warning or to be rejected.  This document describes the language accepted by[m
-       this processor.  Extensions will be identified as such.[m
-[m
-   [1mOPTIONS[0m[m
-       -h, --help[m
-              Print the usage and exit.[m
-[m
-       -i, --interactive[m
-[7m Manual page bc(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Force interactive mode.[m
-[7m Manual page bc(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -l, --mathlib[m
-[7m Manual page bc(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Define the standard math library.[m
-[7m Manual page bc(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -w, --warn[m
-[7m Manual page bc(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Give warnings for extensions to POSIX [1mbc[22m.[m
-[7m Manual page bc(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -s, --standard[m
-[7m Manual page bc(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Process exactly the POSIX [1mbc [22mlanguage.[m
-[7m Manual page bc(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -q, --quiet[m
-[7m Manual page bc(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Do not print the normal GNU bc welcome.[m
-[7m Manual page bc(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -v, --version[m
-[7m Manual page bc(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Print the version number and copyright and quit.[m
-[7m Manual page bc(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mNUMBERS[0m[m
-[7m Manual page bc(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       The  most  basic  element in [1mbc [22mis the number.  Numbers are arbitrary precision num‐[m
-[7m Manual page bc(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       bers.  This precision is both in the integer part and the fractional part.  All num‐[m
-[7m Manual page bc(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       bers  are  represented internally in decimal and all computation is done in decimal.[m
-[7m Manual page bc(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       (This version truncates results from divide and multiply operations.)  There are two[m
-[7m Manual page bc(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       attributes  of numbers, the length and the scale.  The length is the total number of[m
-[7m Manual page bc(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       decimal digits used by [1mbc [22mto represent a number and the scale is the total number of[m
-[7m Manual page bc(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       decimal digits after the decimal point.  For example:[m
-[7m Manual page bc(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K               .000001 has a length of 6 and scale of 6.[m
-[7m Manual page bc(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K               1935.000 has a length of 7 and a scale of 3.[m
-[7m Manual page bc(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mVARIABLES[0m[m
-[7m Manual page bc(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Numbers  are  stored  in  two types of variables, simple variables and arrays.  Both[m
-[7m Manual page bc(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       simple variables and array variables are named.  Names begin with a letter  followed[m
-[7m Manual page bc(1) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       by  any  number of letters, digits and underscores.  All letters must be lower case.[m
-[7m Manual page bc(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       (Full alpha-numeric names are an extension. In POSIX [1mbc [22mall names are a single lower[m
-[7m Manual page bc(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       case  letter.)  The type of variable is clear by the context because all array vari‐[m
-[7m Manual page bc(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       able names will be followed by brackets ([]).[m
-[7m Manual page bc(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       There are four special variables, [1mscale, ibase, obase, [22mand [1mlast[22m.  [1mscale [22mdefines  how[m
-[7m Manual page bc(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       some  operations  use digits after the decimal point.  The default value of [1mscale [22mis[m
-[7m Manual page bc(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       0. [1mibase [22mand [1mobase [22mdefine the conversion base for input  and  output  numbers.   The[m
-[7m Manual page bc(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       default  for  both  input  and output is base 10.  [1mlast [22m(an extension) is a variable[m
-[7m Manual page bc(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       that has the value of the last printed number.  These will be discussed  in  further[m
-[7m Manual page bc(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       detail  where  appropriate.  All of these variables may have values assigned to them[m
-[7m Manual page bc(1) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       as well as used in expressions.[m
-[7m Manual page bc(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mCOMMENTS[0m[m
-[7m Manual page bc(1) line 46 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Comments in [1mbc [22mstart with the characters [1m/* [22mand end with the  characters  [1m*/[22m.   Com‐[m
-[7m Manual page bc(1) line 47 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ments  may  start  anywhere and appear as a single space in the input.  (This causes[m
-[7m Manual page bc(1) line 48 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       comments to delimit other input items.  For example, a comment can not be  found  in[m
-[7m Manual page bc(1) line 49 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the middle of a variable name.)  Comments include any newlines (end of line) between[m
-[7m Manual page bc(1) line 50 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       the start and the end of the comment.[m
-[7m Manual page bc(1) line 51 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 52 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       To support the use of scripts for [1mbc[22m, a single line comment has  been  added  as  an[m
-[7m Manual page bc(1) line 53 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       extension.   A single line comment starts at a [1m# [22mcharacter and continues to the next[m
-[7m Manual page bc(1) line 54 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       end of the line.  The end of line character is not part of the comment and  is  pro‐[m
-[7m Manual page bc(1) line 55 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       cessed normally.[m
-[7m Manual page bc(1) line 56 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 57 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mEXPRESSIONS[0m[m
-[7m Manual page bc(1) line 58 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       The  numbers  are manipulated by expressions and statements.  Since the language was[m
-[7m Manual page bc(1) line 59 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       designed to be interactive, statements and expressions are executed as soon as  pos‐[m
-[7m Manual page bc(1) line 60 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       sible.  There is no "main" program.  Instead, code is executed as it is encountered.[m
-[7m Manual page bc(1) line 61 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       (Functions, discussed in detail later, are defined when encountered.)[m
-[7m Manual page bc(1) line 62 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 63 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       A simple expression is just a constant. [1mbc [22mconverts constants into internal  decimal[m
-[7m Manual page bc(1) line 64 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       numbers  using the current input base, specified by the variable [1mibase[22m. (There is an[m
-[7m Manual page bc(1) line 65 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       exception in functions.)  The legal values of [1mibase [22mare 2 through 36. (Bases greater[m
-[7m Manual page bc(1) line 66 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       than 16 are an extension.) Assigning a value outside this range to [1mibase [22mwill result[m
-[7m Manual page bc(1) line 67 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       in a value of 2 or 36.  Input numbers may contain the characters 0-9 and A-Z. (Note:[m
-[7m Manual page bc(1) line 68 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       They  must  be capitals.  Lower case letters are variable names.)  Single digit num‐[m
-[7m Manual page bc(1) line 69 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       bers always have the value of the digit regardless of the value of [1mibase[22m. (i.e. A  =[m
-[7m Manual page bc(1) line 70 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       10.)  For multi-digit numbers, [1mbc [22mchanges all input digits greater or equal to ibase[m
-[7m Manual page bc(1) line 71 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       to the value of [1mibase[22m-1.  This makes the number [1mZZZ [22malways be the  largest  3  digit[m
-[7m Manual page bc(1) line 72 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       number of the input base.[m
-[7m Manual page bc(1) line 73 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 74 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Full  expressions  are  similar  to many other high level languages.  Since there is[m
-[7m Manual page bc(1) line 75 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       only one kind of number, there are no rules for mixing types.   Instead,  there  are[m
-[7m Manual page bc(1) line 76 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       rules  on  the scale of expressions.  Every expression has a scale.  This is derived[m
-[7m Manual page bc(1) line 77 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       from the scale of original numbers, the operation performed and in many  cases,  the[m
-[7m Manual page bc(1) line 78 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       value of the variable [1mscale[22m. Legal values of the variable [1mscale [22mare 0 to the maximum[m
-[7m Manual page bc(1) line 79 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       number representable by a C integer.[m
-[7m Manual page bc(1) line 80 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 81 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       In the following descriptions of legal expressions,  "expr"  refers  to  a  complete[m
-[7m Manual page bc(1) line 82 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expression  and "var" refers to a simple or an array variable.  A simple variable is[m
-[7m Manual page bc(1) line 83 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       just a[m
-[7m Manual page bc(1) line 84 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [4mname[0m[m
-[7m Manual page bc(1) line 85 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       and an array variable is specified as[m
-[7m Manual page bc(1) line 86 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [4mname[24m[[4mexpr[24m][m
-[7m Manual page bc(1) line 87 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Unless specifically mentioned the scale of the result is the maximum  scale  of  the[m
-[7m Manual page bc(1) line 88 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expressions involved.[m
-[7m Manual page bc(1) line 89 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 90 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       - expr The result is the negation of the expression.[m
-[7m Manual page bc(1) line 91 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 92 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ++ var The  variable  is  incremented  by one and the new value is the result of the[m
-[7m Manual page bc(1) line 93 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              expression.[m
-[7m Manual page bc(1) line 94 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 95 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       -- var The variable is decremented by one and the new value is  the  result  of  the[m
-[7m Manual page bc(1) line 96 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              expression.[m
-[7m Manual page bc(1) line 97 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 98 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       var ++[m
-[7m Manual page bc(1) line 99 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K               The result of the expression is the value of the variable and then the vari‐[m
-[7m Manual page bc(1) line 100 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              able is incremented by one.[m
-[7m Manual page bc(1) line 101 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 102 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       var -- The result of the expression is the value of the variable and then the  vari‐[m
-[7m Manual page bc(1) line 103 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              able is decremented by one.[m
-[7m Manual page bc(1) line 104 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 105 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr + expr[m
-[7m Manual page bc(1) line 106 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result of the expression is the sum of the two expressions.[m
-[7m Manual page bc(1) line 107 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 108 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr - expr[m
-[7m Manual page bc(1) line 109 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result of the expression is the difference of the two expressions.[m
-[7m Manual page bc(1) line 110 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 111 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr * expr[m
-[7m Manual page bc(1) line 112 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result of the expression is the product of the two expressions.  If a and[m
-[7m Manual page bc(1) line 113 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              b are the scales of the two expressions, then the scale  of  the  result  is:[m
-[7m Manual page bc(1) line 114 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              min(a+b,max(scale,a,b))[m
-[7m Manual page bc(1) line 115 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 116 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr / expr[m
-[7m Manual page bc(1) line 117 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The  result  of  the  expression is the quotient of the two expressions.  The[m
-[7m Manual page bc(1) line 118 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              scale of the result is the value of the variable [1mscale[22m.[m
-[7m Manual page bc(1) line 119 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 120 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr % expr[m
-[7m Manual page bc(1) line 121 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result of the expression is the "remainder" and it  is  computed  in  the[m
-[7m Manual page bc(1) line 122 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              following  way.  To compute a%b, first a/b is computed to [1mscale [22mdigits.  That[m
-[7m Manual page bc(1) line 123 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              result is  used  to  compute  a-(a/b)*b  to  the  scale  of  the  maximum  of[m
-[7m Manual page bc(1) line 124 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [1mscale[22m+scale(b)  and  scale(a).   If [1mscale [22mis set to zero and both expressions[m
-[7m Manual page bc(1) line 125 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              are integers this expression is the integer remainder function.[m
-[7m Manual page bc(1) line 126 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 127 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr ^ expr[m
-[7m Manual page bc(1) line 128 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result of the expression is the value of the first raised to the  second.[m
-[7m Manual page bc(1) line 129 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The  second  expression must be an integer.  (If the second expression is not[m
-[7m Manual page bc(1) line 130 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              an integer, a warning is generated and the expression is truncated to get  an[m
-[7m Manual page bc(1) line 131 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              integer  value.)   The  scale of the result is [1mscale [22mif the exponent is nega‐[m
-[7m Manual page bc(1) line 132 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              tive.  If the exponent is positive the scale of the result is the minimum  of[m
-[7m Manual page bc(1) line 133 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              the  scale  of  the  first expression times the value of the exponent and the[m
-[7m Manual page bc(1) line 134 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              maximum of [1mscale [22mand the scale of the first expression.  (e.g.  scale(a^b)  =[m
-[7m Manual page bc(1) line 135 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              min(scale(a)*b, max( [1mscale, [22mscale(a))).)  It should be noted that expr^0 will[m
-[7m Manual page bc(1) line 136 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              always return the value of 1.[m
-[7m Manual page bc(1) line 137 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 138 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ( expr )[m
-[7m Manual page bc(1) line 139 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              This alters the standard precedence to force the evaluation  of  the  expres‐[m
-[7m Manual page bc(1) line 140 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              sion.[m
-[7m Manual page bc(1) line 141 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 142 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       var = expr[m
-[7m Manual page bc(1) line 143 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The variable is assigned the value of the expression.[m
-[7m Manual page bc(1) line 144 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 145 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       var <op>= expr[m
-[7m Manual page bc(1) line 146 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              This is equivalent to "var = var <op> expr" with the exception that the "var"[m
-[7m Manual page bc(1) line 147 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              part is evaluated only once.  This can make  a  difference  if  "var"  is  an[m
-[7m Manual page bc(1) line 148 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              array.[m
-[7m Manual page bc(1) line 149 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 150 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Relational expressions are a special kind of expression that always evaluate to 0 or[m
-[7m Manual page bc(1) line 151 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       1, 0 if the relation is false and 1 if the relation is true.  These  may  appear  in[m
-[7m Manual page bc(1) line 152 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              result is  used  to  compute  a-(a/b)*b  to  the  scale  of  the  maximum  of[m
-[29;1H[K[7m Manual page bc(1) line 151 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              following  way.  To compute a%b, first a/b is computed to [1mscale [22mdigits.  That[m
-[29;1H[K[7m Manual page bc(1) line 150 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              The result of the expression is the "remainder" and it  is  computed  in  the[m
-[29;1H[K[7m Manual page bc(1) line 149 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 150 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Relational expressions are a special kind of expression that always evaluate to 0 or[m
-[7m Manual page bc(1) line 151 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       1, 0 if the relation is false and 1 if the relation is true.  These  may  appear  in[m
-[7m Manual page bc(1) line 152 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       any  legal expression.  (POSIX bc requires that relational expressions are used only[m
-[7m Manual page bc(1) line 153 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       in if, while, and for statements and that only one relational test may  be  done  in[m
-[7m Manual page bc(1) line 154 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       them.)  The relational operators are[m
-[7m Manual page bc(1) line 155 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 156 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr1 < expr2[m
-[7m Manual page bc(1) line 157 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result is 1 if expr1 is strictly less than expr2.[m
-[7m Manual page bc(1) line 158 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 159 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr1 <= expr2[m
-[7m Manual page bc(1) line 160 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result is 1 if expr1 is less than or equal to expr2.[m
-[7m Manual page bc(1) line 161 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 162 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr1 > expr2[m
-[7m Manual page bc(1) line 163 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result is 1 if expr1 is strictly greater than expr2.[m
-[7m Manual page bc(1) line 164 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 165 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr1 >= expr2[m
-[7m Manual page bc(1) line 166 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result is 1 if expr1 is greater than or equal to expr2.[m
-[7m Manual page bc(1) line 167 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 168 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr1 == expr2[m
-[7m Manual page bc(1) line 169 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result is 1 if expr1 is equal to expr2.[m
-[7m Manual page bc(1) line 170 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 171 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr1 != expr2[m
-[7m Manual page bc(1) line 172 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result is 1 if expr1 is not equal to expr2.[m
-[7m Manual page bc(1) line 173 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 174 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Boolean operations are also legal.  (POSIX [1mbc [22mdoes NOT have boolean operations). The[m
-[7m Manual page bc(1) line 175 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       result of all boolean operations are 0 and 1 (for false and true) as  in  relational[m
-[7m Manual page bc(1) line 176 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expressions.  The boolean operators are:[m
-[7m Manual page bc(1) line 177 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 178 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       !expr  The result is 1 if expr is 0.[m
-[7m Manual page bc(1) line 179 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 180 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr && expr[m
-[7m Manual page bc(1) line 181 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result is 1 if both expressions are non-zero.[m
-[7m Manual page bc(1) line 182 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 183 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expr || expr[m
-[7m Manual page bc(1) line 184 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The result is 1 if either expression is non-zero.[m
-[7m Manual page bc(1) line 185 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 186 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       The expression precedence is as follows: (lowest to highest)[m
-[7m Manual page bc(1) line 187 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              || operator, left associative[m
-[7m Manual page bc(1) line 188 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              && operator, left associative[m
-[7m Manual page bc(1) line 189 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              ! operator, nonassociative[m
-[7m Manual page bc(1) line 190 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Relational operators, left associative[m
-[7m Manual page bc(1) line 191 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Assignment operator, right associative[m
-[7m Manual page bc(1) line 192 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              + and - operators, left associative[m
-[7m Manual page bc(1) line 193 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              *, / and % operators, left associative[m
-[7m Manual page bc(1) line 194 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              ^ operator, right associative[m
-[7m Manual page bc(1) line 195 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              unary - operator, nonassociative[m
-[7m Manual page bc(1) line 196 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              ++ and -- operators, nonassociative[m
-[7m Manual page bc(1) line 197 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 198 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This  precedence  was chosen so that POSIX compliant [1mbc [22mprograms will run correctly.[m
-[7m Manual page bc(1) line 199 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       This will cause the use of the relational and logical operators to have some unusual[m
-[7m Manual page bc(1) line 200 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       behavior when used with assignment expressions.  Consider the expression:[m
-[7m Manual page bc(1) line 201 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              a = 3 < 5[m
-[7m Manual page bc(1) line 202 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 203 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Most  C  programmers would assume this would assign the result of "3 < 5" (the value[m
-[7m Manual page bc(1) line 204 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       1) to the variable "a".  What this does in [1mbc [22mis assign the value 3 to the  variable[m
-[7m Manual page bc(1) line 205 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       "a"  and  then  compare 3 to 5.  It is best to use parenthesis when using relational[m
-[7m Manual page bc(1) line 206 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       and logical operators with the assignment operators.[m
-[7m Manual page bc(1) line 207 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 208 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       There are a few more special expressions that are provided in [1mbc[22m.  These have to  do[m
-[7m Manual page bc(1) line 209 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       with user defined functions and standard functions.  They all appear as "[4mname[24m[1m([4m[22mparam‐[0m[m
-[7m Manual page bc(1) line 210 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [4meters[24m[1m)[22m".  See the section on functions for user  defined  functions.   The  standard[m
-[7m Manual page bc(1) line 211 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       functions are:[m
-[7m Manual page bc(1) line 212 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 213 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       length ( expression )[m
-[7m Manual page bc(1) line 214 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The  value  of the length function is the number of significant digits in the[m
-[7m Manual page bc(1) line 215 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              expression.[m
-[7m Manual page bc(1) line 216 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 217 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       read ( )[m
-[7m Manual page bc(1) line 218 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The read function (an extension) will read a number from the standard  input,[m
-[7m Manual page bc(1) line 219 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              regardless  of  where  the function occurs.   Beware, this can cause problems[m
-[7m Manual page bc(1) line 220 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              with the mixing of data and program in the standard input.  The best use  for[m
-[7m Manual page bc(1) line 221 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              this  function  is  in a previously written program that needs input from the[m
-[7m Manual page bc(1) line 222 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              user, but never allows program code to be input from the user.  The value  of[m
-[7m Manual page bc(1) line 223 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              the  read  function is the number read from the standard input using the cur‐[m
-[7m Manual page bc(1) line 224 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              rent value of the variable [1mibase [22mfor the conversion base.[m
-[7m Manual page bc(1) line 225 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 226 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       scale ( expression )[m
-[7m Manual page bc(1) line 227 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The value of the scale function is the number of  digits  after  the  decimal[m
-[7m Manual page bc(1) line 228 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              point in the expression.[m
-[7m Manual page bc(1) line 229 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 230 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       sqrt ( expression )[m
-[7m Manual page bc(1) line 231 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              The  value of the sqrt function is the square root of the expression.  If the[m
-[7m Manual page bc(1) line 232 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              expression is negative, a run time error is generated.[m
-[7m Manual page bc(1) line 233 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 234 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mSTATEMENTS[0m[m
-[7m Manual page bc(1) line 235 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       Statements (as in most algebraic languages) provide  the  sequencing  of  expression[m
-[7m Manual page bc(1) line 236 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       evaluation.  In [1mbc [22mstatements are executed "as soon as possible."  Execution happens[m
-[7m Manual page bc(1) line 237 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       when a newline in encountered and there is one or more complete statements.  Due  to[m
-[7m Manual page bc(1) line 238 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       this  immediate  execution, newlines are very important in [1mbc[22m. In fact, both a semi‐[m
-[7m Manual page bc(1) line 239 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       colon and a newline are used as statement separators.  An improperly placed  newline[m
-[7m Manual page bc(1) line 240 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       will  cause a syntax error.  Because newlines are statement separators, it is possi‐[m
-[7m Manual page bc(1) line 241 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       ble to hide a newline by using the backslash character.  The sequence "\<nl>", where[m
-[7m Manual page bc(1) line 242 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       <nl>  is  the newline appears to [1mbc [22mas whitespace instead of a newline.  A statement[m
-[7m Manual page bc(1) line 243 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       list is a series of statements separated by semicolons and newlines.  The  following[m
-[7m Manual page bc(1) line 244 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       is  a  list of [1mbc [22mstatements and what they do: (Things enclosed in brackets ([]) are[m
-[7m Manual page bc(1) line 245 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       optional parts of the statement.)[m
-[7m Manual page bc(1) line 246 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
-[7m Manual page bc(1) line 247 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       expression[m
-[7m Manual page bc(1) line 248 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              This statement does one of two things.  If the expression starts with "<vari‐[m
-[7m Manual page bc(1) line 249 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              able>  <assignment> ...", it is considered to be an assignment statement.  If[m
-[7m Manual page bc(1) line 250 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0tbash-4.4$ l
-total 8
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
-bash-4.4$ echo "[Kscale=[K[K[K[K[K[K'scale=2; $cat[K[K[K(cat UnitedS[K_s[KStates.txt) / [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[1@m[C[1@e[1@a[1@n[1@_[1@U[1@S[1@ [1P[1P[1P[1P[1P[1P[1P[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kwc -l United_States.txt 
-313 United_States.txt
-bash-4.4$ l[Kwc -l India.txt 
-168 India.txt
-bash-4.4$ ls[K[Kc[Khead United_States.txt 
-170000000
-166000000
-162000000
-112000000
-98900000
-96000000
-75000000
-68200000
-59500000
-59500000
-bash-4.4$ c[Kvi United_States.txt 
-[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;29r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[29;1H"United_States.txt" 313L, 2821C[1;1H170000000
-166000000
-162000000
-112000000
-98900000
-96000000
-75000000
-68200000
-59500000
-59500000
-56900000
-56400000
-52900000
-52700000
-52200000
-47900000
-46600000
-44200000
-42400000
-42400000
-40900000
-39200000
-38600000
-38200000
-38200000
-38000000
-37900000
-37600000[1;1H[?25h[?25l[29;1H[1m-- INSERT --[m[29;13H[K[1;2H[?25h
-1
-1
-1
-9
-9
-7
-
-5
-5
-5
-5
-5
-5
-5
-4
-4
-4
-4
-4
-4
-3
-3[?25l[1;28r[28;1H
-[1;29r[28;1H36700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H36600000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H36300000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H35200000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H35200000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H34900000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H33700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H33600000[23;2H[?25h[?25l[1;28r[1;1H[2M[1;29r[27;1H32800000
-32700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H31700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H31700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H31600000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H31600000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H31200000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H30700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H30700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H30400000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H30400000[23;2H[?25h[?25l[1;28r[1;1H[2M[1;29r[27;1H30300000
-30200000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H30100000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H29600000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H29200000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H28400000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H28200000[23;2H[?25h[?25l[1;28r[1;1H[2M[1;29r[27;1H27500000
-27500000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H27400000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H27300000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H27000000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H26700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H26700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H26500000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H26400000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H26200000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H26100000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H26000000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H25700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H25700000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H25600000[23;2H[?25h[?25l[1;28r[28;1H
-[1;29r[28;1H25500000[23;2H[?25h[29;1H[K[23;1H[?25l[?25h[?25l[29;1H:[?2004h[?25hwq[?25l[29;3H[K[29;3H[?25h[?25l[29;2H[K[29;2H[?25h [23;1H[?25l[29;1H:[?2004h[?25hQ[?25l[1m[37m[41mE492: Not an editor command: Q[23;1H[?25h[?25l[m[29;1H[K[29;1H:[?2004h[?25hq[?25l[?2004l[29;1H[K[29;1H[?2004l[?1l>[?25h[?1049l[23;0;0tbash-4.4$ paste +[K-sd+ UN[Knited_States.txt | bc -lq >mean[K[K[K[K meanUS.txt[K[K[Ktxt
-bash-4.4$ l
-total 12
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24 meanUS.txt
-bash-4.4$ lpaste -sd+ United_States.txt | bc -lq > meanUS.txt[C[C[C[C[C[C[C[C[C[Cl[K[Kpaste [K[K[K[K[K[Kcat meanUS.txt 
-7329500000
-bash-4.4$ mv Mea[K[K[KmeanUS.txt totalUS.txt
-bash-4.4$ l
-total 12
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24 totalUS.txt
-bash-4.4$ paste -sd [K+ Un[K[Kind[K[K[KIndia.txt | bc -lq > totalIndia.txt
-bash-4.4$ l
-total 16
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24 totalUS.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:25 totalIndia.txt
-bash-4.4$ w
-5
-bash-4.4$ cat tt[KotalUs[KS.txt 
-7329500000
-bash-4.4$ cat totalIndia.txt 
-4310600000
-bash-4.4$ l[Kecho "scale=1; c[K$c[K(cat UnitedStates.txt[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KtotalUS.txt / [K[K[K) / $(ws -l Uniteds[K_stat[K[K[K[KStates.txt) | bc > mean_av[K[K[K[K[K[K[Kws4m[K_means.txt
-> l
-> q
-> Q!
-> ;[K
-> aweqwsda
-> "
-bash: ws: command not found
-scale=1; 7329500000 /  | bc > ws4_means.txt
-l
-q
-Q!
-
-aweqwsda
-
-bash-4.4$ r[Kecho "scale=1; $(cat totalUS.txt) / $(ws -l United_States.txt) | bc > ws4_means.txt
-l
-q
-Q!
-
-aweqwsda
-"[K[K[A[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[A[K[A[C[C[K[K[K[A[C[K[K[A[C[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[C[C[C[C[C[C[C[C[C[C[Kecho "scale=1; $(cat totalUS.txt) / $(ws -l United_States.txt) | bc > ws4[C[C[C[C[C[C[C[C[C[Ccat totalIndia.txt [K[C[C[C[C[C[C[C[C[C[Cecho "scale=1; $(cat totalUS.txt) / $(ws -l United_States.txt) | bc > ws4[C[C[C[C[C[C[C[C[C[C[Kecho "scale=1; $(cat totalUS.txt) / $(ws -l United_States.txt) | bc > ws4"[Kmeans[K[K[K[K[K_means.txt" [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K" | bc > m[Kws4_means.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kt
-bash: ws: command not found
-(standard_in) 2: syntax error
-bash-4.4$ echo "scale=1; $(cat totalUS.txt) / $(ws -l United_States.txt)" | bc > ws4_means.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc -l United_States.txt)" | bc > ws4_means.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-
-(standard_in) 1: syntax error
-bash-4.4$ echo "scale=1; $(cat totalUS.txt) / $(wc -l United_States.txt)" | bc > ws4_means.txt [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-"[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
-[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct "
-> "
-(standard_in) 1: syntax error
-bash-4.4$ echo "scale=1; $(cat totalUS.txt) / $(wc -l United_States.txt)" | bc > ws4_means.txt""
-"[K[K[A[C[K[K[Abash-4.4$ echo "scale=1; $(cat totalUS.txt) / $(wc -l United_States.txt)" | bc > ws4_means.txt
-(standard_in) 1: syntax error
-bash-4.4$ echo "scale=1; $(cat totalUS.txt) / $(wc -l United_States.txt)" | bc > ws4_means.txt[C[C[C[C[1@-[1@l[1@q[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[CW ws4_means.txto ws4_means.txtr ws4_means.txtk ws4_means.txt[1P ws4_means.txt[1P ws4_means.txt[1P ws4_means.txt[1P ws4_means.txt[CWws4_means.txtows4_means.txtrws4_means.txtkws4_means.txtsws4_means.txthws4_means.txtews4_means.txtews4_means.txttws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[Cws4_means.txtows4_means.txtrws4_means.txtkws4_means.txtsws4_means.txthws4_means.txtews4_means.txtews4_means.txttws4_means.txt4ws4_means.txt/ws4_means.txt[1Pws4_means.txt/ws4_means.txt[C[C[C[C[C[C[C[C[C[C[C[C[C
-bash: worksheet4/ws4_means.txt: No such file or directory
-bash-4.4$ echo "scale=1; $(cat totalUS.txt) / $(wc -l United_States.txt)" | bc -lq > worksheet4/ws4_means.txt[C[C[1Porksheet4/ws4_means.txtWorksheet4/ws4_means.txt
-bash: Worksheet4/ws4_means.txt: No such file or directory
-bash-4.4$ echo "scale=1; $(cat totalUS.txt) / $(wc -l United_States.txt)" | bc -lq > Worksheet4/ws4_means.txt> Worksheet4/ws4_means.txt
-bash: Worksheet4/ws4_means.txt: No such file or directory
-bash-4.4$ echo "scale=1; $(cat totalUS.txt) / $(wc -l United_States.txt)" | bc -lq >> Worksheet4/ws4_means.txt[C[C[C[C[C[C[C[C[C[C[Kls[K[Kecho "scale=1; $(cat totalUS.txt) / $(wc -l United_States.txt)" | bc -lq >> Worksheet4/ws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt[1Pws4_means.txt
-(standard_in) 1: syntax error
-bash-4.4$ l
-total 16
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03  United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04  India.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24  totalUS.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:25  totalIndia.txt
--rw-rw-r-- 1 sangsp24 sangsp24    0 Apr 10 02:29 'ws4_means.txt'$'\n'
--rw-rw-r-- 1 sangsp24 sangsp24    0 Apr 10 02:29  ws4_means.txt
-bash-4.4$ rm 'ws4_means.txt'$'\n'
-bash-4.4$ l
-total 16
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24 totalUS.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:25 totalIndia.txt
--rw-rw-r-- 1 sangsp24 sangsp24    0 Apr 10 02:29 ws4_means.txt
-bash-4.4$ cat ws4_means.txt 
-bash-4.4$ rm ws4_means.txt 
-bash-4.4$ rm ws4_means.txt [C[C[C[C[C[C[C[C[C[C[1@cat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl[Krm 'ws4_means.txt'$'\n'[C[C[C[C[C[C[C[C[C[Cl[Kecho "scale=1; $(cat totalUS.txt) / $(wc -l United_States.txt)" | bc -lq >> ws4_means.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [1@<[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-bash-4.4$ l
-total 20
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24 totalUS.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:25 totalIndia.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:32 ws4_means.txt
-bash-4.4$ cat ws4_means.txt 
-23416932.9
-bash-4.4$ cat ws4_means.txt [C[C[C[C[C[C[C[C[C[Cl[Kecho "scale=1; $(cat totalUS.txt) / $(wc -l < United_States.txt)" | bc -lq >> ws4_means.txt[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@I[1@n[1@d[1@i[1@a[C[C[C[C[C[1P[1P[1@I[1@n[1@d[1@i[1@a[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
-bash-4.4$ vi [K[K[Kcat ws4_means.txt 
-23416932.9
-25658333.3
-bash-4.4$ ls
-India.txt  totalIndia.txt  totalUS.txt	United_States.txt  ws4_means.txt
-bash-4.4$ cd[K[Kcd
-bash-4.4$ vi ws4_[K[K[K[K[K[K[Kl
-total 36
-drwxrwxr-x 5 sangsp24 sangsp24 4096 Apr  9 16:47 worksheet3
-drwxrwxr-x 3 sangsp24 sangsp24 4096 Apr  9 16:47 worksheet2
--rw-rw-r-- 1 sangsp24 sangsp24   91 Apr  9 16:47 counts.txt
--rw-rw-r-- 1 sangsp24 sangsp24 4232 Apr  9 16:47 cmds.log
-drwxrwxr-x 3 sangsp24 sangsp24 4096 Apr  9 16:47 Assignment2
-drwxrwxr-x 6 sangsp24 sangsp24 4096 Apr  9 16:47 Assignment1
--rwxrwxr-x 1 sangsp24 sangsp24   95 Apr  9 17:24 scripts.sh
-drwxrwxr-x 3 sangsp24 sangsp24 4096 Apr 10 01:53 worksheet4
-bash-4.4$ cd Work[K[K[K[Kworksheet4
-bash-4.4$ l
-total 284
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:52 'Global YouTube Statistics.csv'
-drwxrwxr-x 3 sangsp24 sangsp24   4096 Apr 10 01:55  worksheet4
--rw-rw-r-- 1 sangsp24 sangsp24  81920 Apr 10 02:30  ws4.txt
-bash-4.4$ cd wod[K[K[Ksub[K[K[KSubscribers [K
-bash: cd: Subscribers: No such file or directory
-bash-4.4$ l
-total 288
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:52 'Global YouTube Statistics.csv'
-drwxrwxr-x 3 sangsp24 sangsp24   4096 Apr 10 01:55  worksheet4
--rw-rw-r-- 1 sangsp24 sangsp24  86016 Apr 10 02:34  ws4.txt
-bash-4.4$ cd Wor[K[K[Kworksheet4/k[K[K/
-bash-4.4$ ls
-'Global YouTube Statistics.csv'   Subscribers
-bash-4.4$ cd Subscribers/
-bash-4.4$ l
-total 20
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24 totalUS.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:25 totalIndia.txt
--rw-rw-r-- 1 sangsp24 sangsp24   22 Apr 10 02:33 ws4_means.txt
-bash-4.4$ cat[K[K[Kvi ws4_means.txt 
-[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;29r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[29;1H"ws4_means.txt" 2L, 22C[1;1H23416932.9
-25658333.3
-[1m[34m~                                                                                                                      [4;1H~                                                                                                                      [5;1H~                                                                                                                      [6;1H~                                                                                                                      [7;1H~                                                                                                                      [8;1H~                                                                                                                      [9;1H~                                                                                                                      [10;1H~                                                                                                                      [11;1H~                                                                                                                      [12;1H~                                                                                                                      [13;1H~                                                                                                                      [14;1H~                                                                                                                      [15;1H~                                                                                                                      [16;1H~                                                                                                                      [17;1H~                                                                                                                      [18;1H~                                                                                                                      [19;1H~                                                                                                                      [20;1H~                                                                                                                      [21;1H~                                                                                                                      [22;1H~                                                                                                                      [23;1H~                                                                                                                      [24;1H~                                                                                                                      [25;1H~                                                                                                                      [26;1H~                                                                                                                      [27;1H~                                                                                                                      [28;1H~                                                                                                                      [1;1H[?25h[?25l[m[29;1H[1m-- INSERT --[m[29;13H[K[1;2H[?25h[?25lM23416932.9M[?25h[?25le23416932.9Me[?25h[?25la23416932.9Mea[?25h[?25ln23416932.9Mean[?25h[?25l 23416932.9Mean [?25h[?25ls23416932.9[1;7H[?25h[?25lu23416932.9[1;8H[?25h[?25lb23416932.9[1;9H[?25h[?25ls23416932.9[1;10H[?25h[?25lr23416932.9[1;11H[?25h[?25le23416932.9[1;12H[?25h[?25li23416932.9[1;13H[?25h[?25lv23416932.9[1;14H[?25h[?25le23416932.9[1;15H[?25h[?25l23416932.9[1;24H[K[1;14H[?25h[?25l23416932.9[1;23H[K[1;13H[?25h[?25l23416932.9[1;22H[K[1;12H[?25h[?25l23416932.9[1;21H[K[1;11H[?25h[?25l23416932.9[1;20H[K[1;10H[?25h[?25lc23416932.9[1;11H[?25h[?25lr23416932.9[1;12H[?25h[?25li23416932.9[1;13H[?25h[?25lb23416932.9[1;14H[?25h[?25le23416932.9[1;15H[?25h[?25lr23416932.9[1;16H[?25h[?25ls23416932.9[1;17H[?25h[?25l 23416932.9[1;18H[?25h[?25lf23416932.9[1;19H[?25h[?25lo23416932.9[1;20H[?25h[?25lr23416932.9[1;21H[?25h[?25l 23416932.9[1;22H[?25h[?25lt23416932.9[1;23H[?25h[?25lh23416932.9[1;24H[?25h[?25le23416932.9[1;25H[?25h[?25l 23416932.9[1;26H[?25h[?25l23416932.9[1;35H[K[1;25H[?25h[?25l23416932.9[1;34H[K[1;24H[?25h[?25l23416932.9[1;33H[K[1;23H[?25h[?25l23416932.9[1;32H[K[1;22H[?25h[?25lU23416932.9[1;23H[?25h[?25ln23416932.9[1;24H[?25h[?25li23416932.9[1;25H[?25h[?25lt23416932.9[1;26H[?25h[?25le23416932.9[1;27H[?25h[?25ld23416932.9[1;28H[?25h[?25l 23416932.9[1;29H[?25h[?25lS23416932.9[1;30H[?25h[?25lt23416932.9[1;31H[?25h[?25le23416932.9[1;32H[?25h[?25l23416932.9[1;41H[K[1;31H[?25h[?25la23416932.9[1;32H[?25h[?25lt23416932.9[1;33H[?25h[?25le23416932.9[1;34H[?25h[?25ls23416932.9[1;35H[?25h[?25l:23416932.9[1;36H[?25h[?25l 23416932.9[1;37H[?25h[2;11H[?25lM25658333.3M[?25h[?25le25658333.3Me[?25h[?25la25658333.3Mea[?25h[?25ln25658333.3Mean[?25h[?25l 25658333.3Mean [?25h[?25lS25658333.3[2;7H[?25h[?25l25658333.3[2;16H[K[2;6H[?25h[?25ls25658333.3[2;7H[?25h[?25lu25658333.3[2;8H[?25h[?25lb25658333.3[2;9H[?25h[?25ls25658333.3[2;10H[?25h[?25lc25658333.3[2;11H[?25h[?25lr25658333.3[2;12H[?25h[?25li25658333.3[2;13H[?25h[?25lb25658333.3[2;14H[?25h[?25le25658333.3[2;15H[?25h[?25lr25658333.3[2;16H[?25h[?25ls25658333.3[2;17H[?25h[?25l 25658333.3[2;18H[?25h[?25lf25658333.3[2;19H[?25h[?25lr25658333.3[2;20H[?25h[?25lo25658333.3[2;21H[?25h[?25l 25658333.3[2;22H[?25h[?25l25658333.3[2;31H[K[2;21H[?25h[?25l25658333.3[2;30H[K[2;20H[?25h[?25l25658333.3[2;29H[K[2;19H[?25h[?25lo25658333.3[2;20H[?25h[?25lr25658333.3[2;21H[?25h[?25l 25658333.3[2;22H[?25h[?25lI25658333.3[2;23H[?25h[?25ln25658333.3[2;24H[?25h[?25ld25658333.3[2;25H[?25h[?25li25658333.3[2;26H[?25h[?25la25658333.3[2;27H[?25h[?25l:25658333.3[2;28H[?25h[?25l 25658333.3[2;29H[?25h25658333.3[29;1H[K[2;38H[?25l[?25h[?25l[29;1H:[?2004h[?25hwq![?25l[?2004l"ws4_means.txt" 2L, 86C written
-[?2004l[?1l>[?25h[?1049l[23;0;0tbash-4.4$ l
-total 20
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24 totalUS.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:25 totalIndia.txt
--rw-rw-r-- 1 sangsp24 sangsp24   86 Apr 10 02:36 ws4_means.txt
-bash-4.4$ mv W[KWork[K[K[K[Kwokr[K[K[K[K[K[K[Kecho $[K[K[K[K[K[Kpwd
-/mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4/worksheet4/Subscribers
-bash-4.4$ cd Subscribers [K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kmv /[KSubscibers[K[K[K[K[K[Kcribers ../
-mv: cannot stat 'Subscribers': No such file or directory
-bash-4.4$ cd -
-/mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4/worksheet4
-bash-4.4$ pwd
-/mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4/worksheet4
-bash-4.4$ l
-total 200
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:53 'Global YouTube Statistics.csv'
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:36  Subscribers
-bash-4.4$ cd[K[Kmv Subscribers/ [K../
-mv: missing destination file operand after 'Subscribers/../'
-Try 'mv --help' for more information.
-bash-4.4$ mv Subscribers/../[1P../ ../
-bash-4.4$ l
-total 196
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:53 'Global YouTube Statistics.csv'
-bash-4.4$ ls
-'Global YouTube Statistics.csv'
-bash-4.4$ cd -
-bash: cd: /mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4/worksheet4/Subscribers: No such file or directory
-bash-4.4$ ll[K[Kpwd
-/mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4/worksheet4
-bash-4.4$ cd[K[Kcd [K[K[Kc[Kcd [K[K[Kl
-total 196
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:53 'Global YouTube Statistics.csv'
-bash-4.4$ ls
-'Global YouTube Statistics.csv'
-bash-4.4$ cd -
-bash: cd: /mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4/worksheet4/Subscribers: No such file or directory
-bash-4.4$ cd __
-bash: cd: __: No such file or directory
-bash-4.4$ cd [K[K[Kcd
-bash-4.4$ l
-total 36
-drwxrwxr-x 5 sangsp24 sangsp24 4096 Apr  9 16:47 worksheet3
-drwxrwxr-x 3 sangsp24 sangsp24 4096 Apr  9 16:47 worksheet2
--rw-rw-r-- 1 sangsp24 sangsp24   91 Apr  9 16:47 counts.txt
--rw-rw-r-- 1 sangsp24 sangsp24 4232 Apr  9 16:47 cmds.log
-drwxrwxr-x 3 sangsp24 sangsp24 4096 Apr  9 16:47 Assignment2
-drwxrwxr-x 6 sangsp24 sangsp24 4096 Apr  9 16:47 Assignment1
--rwxrwxr-x 1 sangsp24 sangsp24   95 Apr  9 17:24 scripts.sh
-drwxrwxr-x 4 sangsp24 sangsp24 4096 Apr 10 02:38 worksheet4
-bash-4.4$ ls
-Assignment1  Assignment2  cmds.log  counts.txt	scripts.sh  worksheet2	worksheet3  worksheet4
-bash-4.4$ cd worksheet4
-bash-4.4$ l
-total 300
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:52 'Global YouTube Statistics.csv'
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:36  Subscribers
--rw-rw-r-- 1 sangsp24 sangsp24  94208 Apr 10 02:37  ws4.txt
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:38  worksheet4
-bash-4.4$ rm worksheet4/
-rm: cannot remove 'worksheet4/': Is a directory
-bash-4.4$ l
-total 300
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:52 'Global YouTube Statistics.csv'
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:36  Subscribers
--rw-rw-r-- 1 sangsp24 sangsp24  94208 Apr 10 02:37  ws4.txt
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:38  worksheet4
-bash-4.4$ cd [K[K[Krmdir worksheet4/
-rmdir: failed to remove 'worksheet4/': Directory not empty
-bash-4.4$ ;[Krm -r worksheet4/
-bash-4.4$ l
-total 296
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:52 'Global YouTube Statistics.csv'
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:36  Subscribers
--rw-rw-r-- 1 sangsp24 sangsp24  94208 Apr 10 02:37  ws4.txt
-bash-4.4$ cd sub[K[K[KSubscribers/
-bash-4.4$ l
-total 20
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24 totalUS.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:25 totalIndia.txt
--rw-rw-r-- 1 sangsp24 sangsp24   86 Apr 10 02:36 ws4_means.txt
-bash-4.4$ l[Kpwd
-/mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4/Subscribers
-bash-4.4$ mv India.txt ../
-bash-4.4$ l
-total 16
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24 totalUS.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:25 totalIndia.txt
--rw-rw-r-- 1 sangsp24 sangsp24   86 Apr 10 02:36 ws4_means.txt
-bash-4.4$ mv India[K[K[K[K[K[K[K[Kcd ~[K[K -
-/mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4
-bash-4.4$ cd[K[Kl
-total 300
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:52 'Global YouTube Statistics.csv'
--rw-rw-r-- 1 sangsp24 sangsp24   1514 Apr 10 02:04  India.txt
--rw-rw-r-- 1 sangsp24 sangsp24  94208 Apr 10 02:37  ws4.txt
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:40  Subscribers
-bash-4.4$ mv India [K[K[K[K[K[KIndia.txt /..[K[K[KSubscribers/
-bash-4.4$ l
-total 300
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:52 'Global YouTube Statistics.csv'
--rw-rw-r-- 1 sangsp24 sangsp24  98304 Apr 10 02:41  ws4.txt
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:42  Subscribers
-bash-4.4$ cd su[K[KSubscribers/
-bash-4.4$ l
-total 20
--rw-rw-r-- 1 sangsp24 sangsp24 2821 Apr 10 02:03 United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24 1514 Apr 10 02:04 India.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:24 totalUS.txt
--rw-rw-r-- 1 sangsp24 sangsp24   11 Apr 10 02:25 totalIndia.txt
--rw-rw-r-- 1 sangsp24 sangsp24   86 Apr 10 02:36 ws4_means.txt
-bash-4.4$ mv mv UN[K[K[K[K[K[K India.txt ../
-bash-4.4$ mv United_States.txt ../
-bash-4.4$ m w[K[Kv ws4_means.txt ../
-bash-4.4$ cd -
-/mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4
-bash-4.4$ l
-total 312
--rw-rw-r-- 1 sangsp24 sangsp24 200279 Apr 10 01:52 'Global YouTube Statistics.csv'
--rw-rw-r-- 1 sangsp24 sangsp24   2821 Apr 10 02:03  United_States.txt
--rw-rw-r-- 1 sangsp24 sangsp24   1514 Apr 10 02:04  India.txt
--rw-rw-r-- 1 sangsp24 sangsp24     86 Apr 10 02:36  ws4_means.txt
--rw-rw-r-- 1 sangsp24 sangsp24  98304 Apr 10 02:41  ws4.txt
-drwxrwxr-x 2 sangsp24 sangsp24   4096 Apr 10 02:43  Subscribers
-bash-4.4$ git init
-[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
-[33mhint: is subject to change. To configure the initial branch name to use in all[m
-[33mhint: of your new repositories, which will suppress this warning, call:[m
-[33mhint: [m
-[33mhint: 	git config --global init.defaultBranch <name>[m
-[33mhint: [m
-[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
-[33mhint: 'development'. The just-created branch can be renamed via this command:[m
-[33mhint: [m
-[33mhint: 	git branch -m <name>[m
-Initialized empty Git repository in /mnt/scratch/FA23_CS131_Ashish/sangsp24/worksheet4/.git/
-bash-4.4$ git branch ma[K[K-m main
-bash-4.4$ git status
-On branch main
-
-No commits yet
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mGlobal YouTube Statistics.csv[m
-	[31mIndia.txt[m
-	[31mSubscribers/[m
-	[31mUnited_States.txt[m
-	[31mws4.txt[m
-	[31mws4_means.txt[m
-
-nothing added to commit but untracked files present (use "git add" to track)
-bash-4.4$ git add ws4.txt 
-bash-4.4$ git add in[K[K[K India.txt 
-bash-4.4$ git status
-On branch main
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	[32mnew file:   India.txt[m
-	[32mnew file:   ws4.txt[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mGlobal YouTube Statistics.csv[m
-	[31mSubscribers/[m
-	[31mUnited_States.txt[m
-	[31mws4_means.txt[m
-
-bash-4.4$ git add United_States.txt 
-bash-4.4$ git status
-On branch main
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	[32mnew file:   India.txt[m
-	[32mnew file:   United_States.txt[m
-	[32mnew file:   ws4.txt[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mGlobal YouTube Statistics.csv[m
-	[31mSubscribers/[m
-	[31mws4_means.txt[m
-
-bash-4.4$ git add ws4)[K_means.txt 
-bash-4.4$ git status
-On branch main
-
-No commits yet
-
-Changes to be committed:
-  (use "git rm --cached <file>..." to unstage)
-	[32mnew file:   India.txt[m
-	[32mnew file:   United_States.txt[m
-	[32mnew file:   ws4.txt[m
-	[32mnew file:   ws4_means.txt[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mGlobal YouTube Statistics.csv[m
-	[31mSubscribers/[m
-
-bash-4.4$ git init[K[K[K[Kcommit -m "Worksheet4"
-[main (root-commit) ba82154] Worksheet4
- 4 files changed, 1347 insertions(+)
- create mode 100644 India.txt
- create mode 100644 United_States.txt
- create mode 100644 ws4.txt
- create mode 100644 ws4_means.txt
-bash-4.4$ git remot -v
-git: 'remot' is not a git command. See 'git --help'.
-
-The most similar command is
-	remote
-bash-4.4$ git remote -v
-bash-4.4$ git remote add git@github.com:badcent/cs131.git
-usage: git remote add [<options>] <name> <url>
-
-    -f, --fetch           fetch the remote branches
-    --tags                import all tags and associated objects when fetching
-                          or do not fetch any tag at all (--no-tags)
-    -t, --track <branch>  branch(es) to track
-    -m, --master <branch>
-                          master branch
-    --mirror[=(push|fetch)]
-                          set up remote as a mirror to push to or fetch from
-
-bash-4.4$ gir[Kt remote add oi[K[Korigin git@github.com:badcent/cs131.git
-bash-4.4$ git remote [K[K[K[K[K[K[Kstatus
-On branch main
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mmodified:   ws4.txt[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mGlobal YouTube Statistics.csv[m
-	[31mSubscribers/[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-bash-4.4$ git remote o[K0[K-v
-origin	git@github.com:badcent/cs131.git (fetch)
-origin	git@github.com:badcent/cs131.git (push)
-bash-4.4$ git pull remote origin
-fatal: 'remote' does not appear to be a git repository
-fatal: Could not read from remote repository.
-
-Please make sure you have the correct access rights
-and the repository exists.
-bash-4.4$ git pull main [K[K[K[K[K[K origin
-Enter passphrase for key '/mnt/scratch/FA23_CS131_Ashish/sangsp24/.ssh/id_rsa': 
-remote: Enumerating objects: 35, done.[K
-remote: Counting objects:   2% (1/35)[Kremote: Counting objects:   5% (2/35)[Kremote: Counting objects:   8% (3/35)[Kremote: Counting objects:  11% (4/35)[Kremote: Counting objects:  14% (5/35)[Kremote: Counting objects:  17% (6/35)[Kremote: Counting objects:  20% (7/35)[Kremote: Counting objects:  22% (8/35)[Kremote: Counting objects:  25% (9/35)[Kremote: Counting objects:  28% (10/35)[Kremote: Counting objects:  31% (11/35)[Kremote: Counting objects:  34% (12/35)[Kremote: Counting objects:  37% (13/35)[Kremote: Counting objects:  40% (14/35)[Kremote: Counting objects:  42% (15/35)[Kremote: Counting objects:  45% (16/35)[Kremote: Counting objects:  48% (17/35)[Kremote: Counting objects:  51% (18/35)[Kremote: Counting objects:  54% (19/35)[Kremote: Counting objects:  57% (20/35)[Kremote: Counting objects:  60% (21/35)[Kremote: Counting objects:  62% (22/35)[Kremote: Counting objects:  65% (23/35)[Kremote: Counting objects:  68% (24/35)[Kremote: Counting objects:  71% (25/35)[Kremote: Counting objects:  74% (26/35)[Kremote: Counting objects:  77% (27/35)[Kremote: Counting objects:  80% (28/35)[Kremote: Counting objects:  82% (29/35)[Kremote: Counting objects:  85% (30/35)[Kremote: Counting objects:  88% (31/35)[Kremote: Counting objects:  91% (32/35)[Kremote: Counting objects:  94% (33/35)[Kremote: Counting objects:  97% (34/35)[Kremote: Counting objects: 100% (35/35)[Kremote: Counting objects: 100% (35/35), done.[K
-remote: Compressing objects:   3% (1/28)[Kremote: Compressing objects:   7% (2/28)[Kremote: Compressing objects:  10% (3/28)[Kremote: Compressing objects:  14% (4/28)[Kremote: Compressing objects:  17% (5/28)[Kremote: Compressing objects:  21% (6/28)[Kremote: Compressing objects:  25% (7/28)[Kremote: Compressing objects:  28% (8/28)[Kremote: Compressing objects:  32% (9/28)[Kremote: Compressing objects:  35% (10/28)[Kremote: Compressing objects:  39% (11/28)[Kremote: Compressing objects:  42% (12/28)[Kremote: Compressing objects:  46% (13/28)[Kremote: Compressing objects:  50% (14/28)[Kremote: Compressing objects:  53% (15/28)[Kremote: Compressing objects:  57% (16/28)[Kremote: Compressing objects:  60% (17/28)[Kremote: Compressing objects:  64% (18/28)[Kremote: Compressing objects:  67% (19/28)[Kremote: Compressing objects:  71% (20/28)[Kremote: Compressing objects:  75% (21/28)[Kremote: Compressing objects:  78% (22/28)[Kremote: Compressing objects:  82% (23/28)[Kremote: Compressing objects:  85% (24/28)[Kremote: Compressing objects:  89% (25/28)[Kremote: Compressing objects:  92% (26/28)[Kremote: Compressing objects:  96% (27/28)[Kremote: Compressing objects: 100% (28/28)[Kremote: Compressing objects: 100% (28/28), done.[K
-Unpacking objects:   2% (1/35)Unpacking objects:   5% (2/35)Unpacking objects:   8% (3/35)Unpacking objects:  11% (4/35)Unpacking objects:  14% (5/35)Unpacking objects:  17% (6/35)Unpacking objects:  20% (7/35)Unpacking objects:  22% (8/35)Unpacking objects:  25% (9/35)Unpacking objects:  28% (10/35)Unpacking objects:  31% (11/35)Unpacking objects:  34% (12/35)Unpacking objects:  37% (13/35)Unpacking objects:  40% (14/35)Unpacking objects:  42% (15/35)Unpacking objects:  45% (16/35)Unpacking objects:  48% (17/35)Unpacking objects:  51% (18/35)remote: Total 35 (delta 5), reused 14 (delta 0), pack-reused 0[K
-Unpacking objects:  54% (19/35)Unpacking objects:  57% (20/35)Unpacking objects:  60% (21/35)Unpacking objects:  62% (22/35)Unpacking objects:  65% (23/35)Unpacking objects:  68% (24/35)Unpacking objects:  71% (25/35)Unpacking objects:  74% (26/35)Unpacking objects:  77% (27/35)Unpacking objects:  80% (28/35)Unpacking objects:  82% (29/35)Unpacking objects:  85% (30/35)Unpacking objects:  88% (31/35)Unpacking objects:  91% (32/35)Unpacking objects:  94% (33/35)Unpacking objects:  97% (34/35)Unpacking objects: 100% (35/35)Unpacking objects: 100% (35/35), 15.85 KiB | 345.00 KiB/s, done.
-From github.com:badcent/cs131
- * [new branch]      main       -> origin/main
- * [new branch]      master     -> origin/master
-You asked to pull from the remote 'origin', but did not specify
-a branch. Because this is not the default configured remote
-for your current branch, you must specify a branch on the command line.
-bash-4.4$ git pus --set [K-upstream origin main
-git: 'pus' is not a git command. See 'git --help'.
-
-The most similar commands are
-	push
-	pull
-bash-4.4$ git pus --set-upstream origin main[1@h
-Enter passphrase for key '/mnt/scratch/FA23_CS131_Ashish/sangsp24/.ssh/id_rsa': 
-To github.com:badcent/cs131.git
- [31m! [rejected]       [m main -> main (non-fast-forward)
-[31merror: failed to push some refs to 'github.com:badcent/cs131.git'
-[m[33mhint: Updates were rejected because the tip of your current branch is behind[m
-[33mhint: its remote counterpart. Integrate the remote changes (e.g.[m
-[33mhint: 'git pull ...') before pushing again.[m
-[33mhint: See the 'Note about fast-forwards' in 'git push --help' for details.[m
-bash-4.4$ git pull origin main
-Enter passphrase for key '/mnt/scratch/FA23_CS131_Ashish/sangsp24/.ssh/id_rsa': 
-From github.com:badcent/cs131
- * branch            main       -> FETCH_HEAD
-[33mhint: Pulling without specifying how to reconcile divergent branches is[m
-[33mhint: discouraged. You can squelch this message by running one of the following[m
-[33mhint: commands sometime before your next pull:[m
-[33mhint: [m
-[33mhint:   git config pull.rebase false  # merge (the default strategy)[m
-[33mhint:   git config pull.rebase true   # rebase[m
-[33mhint:   git config pull.ff only       # fast-forward only[m
-[33mhint: [m
-[33mhint: You can replace "git config" with "git config --global" to set a default[m
-[33mhint: preference for all repositories. You can also pass --rebase, --no-rebase,[m
-[33mhint: or --ff-only on the command line to override the configured default per[m
-[33mhint: invocation.[m
-fatal: refusing to merge unrelated histories
-bash-4.4$ git fetch origin main
-Enter passphrase for key '/mnt/scratch/FA23_CS131_Ashish/sangsp24/.ssh/id_rsa': 
-From github.com:badcent/cs131
- * branch            main       -> FETCH_HEAD
-bash-4.4$ exit
-
-Script done on 2024-04-10 02:48:08-04:00
