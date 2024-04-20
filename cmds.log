@@ -1,0 +1,86 @@
+    2  ls
+    3  mkdir Assignment3
+    4  cd Assignment3
+    5  ls
+    6  ls -ltr
+    7  touch Assignment3.txt
+    8  ls -ltr
+    9  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awksp24/last.fake
+   10  ls -ltr
+   11  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awksp24/passwd.fake
+   12  ls -ltr
+   13  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awksp24/ps.fake
+   14  ls -ltr
+   15  ls
+   16  man las
+   17  man last
+   18  ls
+   19  wc -l last.fake 
+   20  wc -l last.fake > Assignment3.txt 
+   21  vi Assignment3.txt 
+   22  head last.fake 
+   23  grep "sp24" last.fake > lastsp24.fake
+   24  ls
+   25  vi lastsp24.fake 
+   26  vi Assignment3.txt 
+   27  wc -l lastsp24.fake 
+   28  wc -l lastsp24.fake >> Assignment3.txt 
+   29  vi Assignment3.txt 
+   30  ls
+   31  grep "Sun" lastsp24.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"} {print} END {print "Kudos to these people for putting in the work"}' >> Assignment3.txt 
+   32  vi Assignment3.txt 
+   33  head lastsp24.fake 
+   34  awk '{print $NF-1}' lastsp24.fake 
+   35  awk '{print $(NF-1)}' lastsp24.fake 
+   36  ls
+   37  awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq| awk 'BEGIN {print "Night Owls List: "} {print} END {print Night Owls are dope. Please ensure you get enough sleep though.}
+awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq| awk 'BEGIN {print "Night Owls List: "} {print} END {print Night Owls are dope. Please ensure you get enough sleep though.} >> Assignment3.txt
+   38  awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq| awk 'BEGIN {print "Night Owls List: "} {print} END {print Night Owls are dope. Please ensure you get enough sleep though.}
+awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq| awk 'BEGIN {print "Night Owls List: "} {print} END {print Night Owls are dope. Please ensure you get enough sleep though.} >> Assignemnt3.txt
+   39  awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq| awk 'BEGIN {print "Night Owls List: "} {print} END {print "Night Owls are dope. Please ensure you get enough sleep though."}
+awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq| awk 'BEGIN {print "Night Owls List: "} {print} END {print "Night Owls are dope. Please ensure you get enough sleep though."} >> Assignment3.txt
+   40  awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq| awk 'BEGIN {print "Night Owls List: "} {print} END {print "Night Owls are dope. Please ensure you get enough sleep though."}
+awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq| awk 'BEGIN {print "Night Owls List: "} {print} END {print "Night Owls are dope. Please ensure you get enough sleep though."}' >> Assignment3.txt
+   41  awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq| awk 'BEGIN {print "Night Owls List: "} {print} END {print "Night Owls are dope. Please ensure you get enough sleep though."}
+awk '$(NF-1) ~ /(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq| awk 'BEGIN {print "Night Owls List: "} {print} END {print "Night Owls are dope. Please ensure you get enough sleep though."}' >> Assignment3.txt
+   42  vi Assignment3.txt 
+   43  awk '{ if ($(NF-1) >= 23 || $(NF-1) <= 4) print $1}' | sort | uniq | awk 'BEGIN {print "Night Owl Users"} {print} END {print "Get some sleep"}' >> Assignment3.txt 
+   44  awk '{ if ($(NF-1) >= 23 || $(NF-1) <= 4) print $1}' lastsp24.fake | sort | uniq | awk 'BEGIN {print "Night Owl Users"} {print} END {print "Get some sleep"}' >> Assignment3.txt 
+   45  vi Assignment3.txt 
+   46  awk '{ if ($(NF-1) >= 5 || $(NF-1) <= 9) print $1}' lastsp24.fake | sort | uniq | awk 'BEGIN {print "Early Bird Users"} {print} END {print "Rise and shine."}' >> Assignment3.txt 
+   47  vi Assignment3.txt 
+   48  vi lastsp24.fake 
+   49  awk '{print $1 == sangsp24}' lastsp24.fake > test.txt
+   50  vi test.txt 
+   51  rm test.txt 
+   52  ls
+   53  awk '$(NF-1) ~ /^(0[5-9]):/' lastsp24.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "List of distinct early bird users:"} {print} END {print "End of list."}'
+   54  awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "List of distinct night owl users:"} {print} END {print "End of list."}'
+   55  vi Assignment3.txt 
+   56  awk '$(NF-1) ~ /^(23|[01][0-4]):/' lastsp24.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "night owl users:"} {print} END {print "get some sleep."}' >> Assignment3.txt 
+   57  vi Assignment3.txt 
+   58  awk '$(NF-1) ~ /^(0[5-9]):/' lastsp24.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "early bird users:"} {print} END {print "Rise and Shine."}' >> Assignment3.txt 
+   59  vi Assignment3.txt 
+   60  awk '$1 ~ /^t/' lastsp24.fake | sort
+   61  awk '$1 ~ /^t/' lastsp24.fake | sort | uniq | awk 'BEGIN {print "Users with usernames beginning with t"} {print} END' >> Assignment3.txt 
+   62  awk '$1 ~ /^t/' lastsp24.fake | sort | uniq | awk 'BEGIN {print "Users with usernames beginning with t"} {print} END {print ""}' >> Assignment3.txt 
+   63  vi Assignment3.txt 
+   64  awk '$1 ~ /^t/' lastsp24.fake | awk '{print $1} | sort | uniq | awk 'BEGIN {print "Users with usernames beginning with t"} {print} END {print ""}' >> Assignment3.txt 
+vi Assignment3.txt 
+
+vi Assignment3.txt 
+'
+   65  awk '$1 ~ /^t/' lastsp24.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "Users with usernames beginning with t"} {print} END {print ""}' >> Assignment3.txt
+   66  vi Assignment3.txt 
+   67  ls passwd.fake 
+   68  head passwd.fake 
+   69  awk -F ':' '$1 ~ /^a/ && $3 % 2 == 0' passwd.fake >> Assignment3.txt 
+   70  vi Assignment3.txt 
+   71  awk -F ':' '$1 ~ /^a/ && $3 % 2 == 0' passwd.fake | awk '{print $1}' >> Assignment3.txt 
+   72  vi Assignment3.txt 
+   73  awk -F ':' '$1 ~ /^a/ && $3 % 2 == 0 {print $1}' passwd.fake >> Assignment3.txt 
+   74  vi Assignment3.txt 
+   75  sed 's/[a-zA-Z0-9]//g' passwd.fake | sort -u >> Assignment3.txt 
+   76  vi Assignment3.txt 
+   77  ls
+   78  history > cmds.log
