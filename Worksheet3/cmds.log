@@ -1,0 +1,64 @@
+    1  ls
+    2  man sort
+    3  man uniq 
+    4  man cut
+    5  ls
+    6  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+    7  ls -ltr
+    8  ls
+    9  cat Global\ YouTube\ Statistics.csv 
+   10  head Global\ YouTube\ Statistics.csv 
+   11  sort -t ',' -k 16 -n -r Global\ YouTube\ Statistics.csv >> ws3.txt
+   12  ls
+   13  cat ws3.txt
+   14  head ws3.txt 
+   15  sort -t ',' -k 16 -n -r Global\ YouTube\ Statistics.csv | head -n 1
+   16  ls
+   17  rm ws3.txt
+   18  grep "United States" 'Global YouTube Statistics.csv' | sort -t ',' -k 16 -n -r >> ws3.txt
+   19  ls
+   20  cat ws3.txt 
+   21  head 5 ws3.txt 
+   22  head ws3.txt 
+   23  clear
+   24  head ws3.txt 
+   25  grep "United States" 'Global YouTube Statistics.csv' | sort -t ',' -k 16 -n -r |head -1 >> ws3.txt
+   26  ls
+   27  vi ws3.txt 
+   28  rm ws3.txt 
+   29  grep "United States" 'Global YouTube Statistics.csv' | sort -t ',' -k 16 -n -r |head -1 >> ws3.txt
+   30  cat ws3.txt 
+   31  vi ws3.txt 
+   32  ls -ltr
+   33  grep "United Kingdom" 'Global YouTube Statistics.csv' | sort -t ',' -k 16 -n -r |head -1 > ws3.txt
+   34  cat ws3.txt 
+   35  vi ws3.txt 
+   36  grep "United States" 'Global YouTube Statistics.csv' | sort -t ',' -k 16 -n -r |head -1 > ws3.txt
+   37  cat ws3.txt 
+   38  grep "United Kingdom" 'Global YouTube Statistics.csv' | sort -t ',' -k 16 -n -r |head -1 >> ws3.txt
+   39  cat ws3.txt 
+   40  grep "India" 'Global YouTube Statistics.csv' | sort -t ',' -k 16 -n -r |head -1 >> ws3.txt
+   41  ls
+   42  cat ws3.txt 
+   43  vi ws3.txt 
+   44  grep "Sports" 'Global YouTube Statistics.csv' | sort -t ',' -k 5 -n -r | head -1 >> ws3.txt 
+   45  cat ws3.txt 
+   46  vi ws3.txt 
+   47  grep "Sports" 'Global YouTube Statistics.csv' | sort -t ',' -k 5 -n -r | head -1 >> test.txt
+   48  ls
+   49  cat test.txt 
+   50  head -1 'Global YouTube Statistics.csv' 
+   51  grep "Sports" 'Global YouTube Statistics.csv' | sort -t ',' -k 3 -n -r | head -1 >> test.txt
+   52  cat test.txt 
+   53  rm test.txt 
+   54  vi ws3.txt 
+   55  grep "Sports" 'Global YouTube Statistics.csv' | sort -t ',' -k 3 -n -r | head -1 >> ws3.txt 
+   56  vi ws3.txt 
+   57  grep "Education" 'Global YouTube Statistics.csv' | sort -t ',' -k 3 -n -r | head -1 >> ws3.txt 
+   58  cat ws3.txt 
+   59  grep "Entertainment" 'Global YouTube Statistics.csv' | sort -t ',' -k 3 -n -r | head -1 >> ws3.txt 
+   60  cat ws3.txt 
+   61  vi ws3.txt 
+   62  ls
+   63  ls -ltr
+   64  history > cmds.log
